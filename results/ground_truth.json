@@ -1,0 +1,6002 @@
+[
+ {
+  "device_id": "SV-0000",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.176298300463211,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.28635279345526055
+ },
+ {
+  "device_id": "SV-0001",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5250898256551266,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2766846941819427
+ },
+ {
+  "device_id": "SV-0002",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7806180008239855,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.31595915160728033
+ },
+ {
+  "device_id": "SV-0003",
+  "mode": "brush_hair_wrap",
+  "onset_day": 15,
+  "hard_failure_day": 51,
+  "severity_scale": 1.1109789912113115,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5218677617103739
+ },
+ {
+  "device_id": "SV-0004",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.373489923145944,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2401254942310003
+ },
+ {
+  "device_id": "SV-0005",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8879576139733423,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6765477235352436
+ },
+ {
+  "device_id": "SV-0006",
+  "mode": "brush_hair_wrap",
+  "onset_day": 37,
+  "hard_failure_day": 68,
+  "severity_scale": 0.7350725835954094,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.8657712538532362
+ },
+ {
+  "device_id": "SV-0007",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9572876575993541,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3752082237066746
+ },
+ {
+  "device_id": "SV-0008",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6712696852530411,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.765055303275736
+ },
+ {
+  "device_id": "SV-0009",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3841400102882254,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.26866775769642
+ },
+ {
+  "device_id": "SV-0010",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9107903736453264,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.7187221158616014
+ },
+ {
+  "device_id": "SV-0011",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.30725030529834985,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.23072188288747195
+ },
+ {
+  "device_id": "SV-0012",
+  "mode": "clogged_filter",
+  "onset_day": 15,
+  "hard_failure_day": 41,
+  "severity_scale": 0.37926678614251785,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6697000009060632
+ },
+ {
+  "device_id": "SV-0013",
+  "mode": "clogged_filter",
+  "onset_day": 31,
+  "hard_failure_day": 55,
+  "severity_scale": 0.7286232386674332,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5255075256312431
+ },
+ {
+  "device_id": "SV-0014",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1318226805886715,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.38584682171265966
+ },
+ {
+  "device_id": "SV-0015",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5815520876303203,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4160389299850087
+ },
+ {
+  "device_id": "SV-0016",
+  "mode": "firmware_regression",
+  "onset_day": 28,
+  "hard_failure_day": null,
+  "severity_scale": 0.533631705988276,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.46863273889201207
+ },
+ {
+  "device_id": "SV-0017",
+  "mode": "brush_hair_wrap",
+  "onset_day": 43,
+  "hard_failure_day": 76,
+  "severity_scale": 0.6198188595881877,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3016041852978925
+ },
+ {
+  "device_id": "SV-0018",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8199880247340958,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.13652299387137307
+ },
+ {
+  "device_id": "SV-0019",
+  "mode": "firmware_regression",
+  "onset_day": 16,
+  "hard_failure_day": null,
+  "severity_scale": 0.5581252477241133,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.6323805089582784
+ },
+ {
+  "device_id": "SV-0020",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7760609705344078,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.4750743911930833
+ },
+ {
+  "device_id": "SV-0021",
+  "mode": "clogged_filter",
+  "onset_day": 49,
+  "hard_failure_day": 70,
+  "severity_scale": 1.0106304327080504,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.1344857378719606
+ },
+ {
+  "device_id": "SV-0022",
+  "mode": "firmware_regression",
+  "onset_day": 25,
+  "hard_failure_day": null,
+  "severity_scale": 0.4486364783395153,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.5290922173561573
+ },
+ {
+  "device_id": "SV-0023",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7690471034008629,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.15989917039356152
+ },
+ {
+  "device_id": "SV-0024",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.868307194284215,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.29569126196244505
+ },
+ {
+  "device_id": "SV-0025",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5192277642608654,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.09245759525898442
+ },
+ {
+  "device_id": "SV-0026",
+  "mode": "battery_degradation",
+  "onset_day": 47,
+  "hard_failure_day": 69,
+  "severity_scale": 0.7980292903848629,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.21329701504178597
+ },
+ {
+  "device_id": "SV-0027",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5296990674879831,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2161263496357257
+ },
+ {
+  "device_id": "SV-0028",
+  "mode": "wheel_wear",
+  "onset_day": 21,
+  "hard_failure_day": 54,
+  "severity_scale": 0.8164291952440261,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.12454446850093806
+ },
+ {
+  "device_id": "SV-0029",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.449889840245202,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.1985104814835852
+ },
+ {
+  "device_id": "SV-0030",
+  "mode": "brush_hair_wrap",
+  "onset_day": 19,
+  "hard_failure_day": 51,
+  "severity_scale": 0.9683071839443571,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5122420528220191
+ },
+ {
+  "device_id": "SV-0031",
+  "mode": "brush_hair_wrap",
+  "onset_day": 39,
+  "hard_failure_day": 59,
+  "severity_scale": 0.5297025595966168,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5107794784282954
+ },
+ {
+  "device_id": "SV-0032",
+  "mode": "brush_hair_wrap",
+  "onset_day": 21,
+  "hard_failure_day": 53,
+  "severity_scale": 0.6094604248059674,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5267703152617615
+ },
+ {
+  "device_id": "SV-0033",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6966436675277506,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.48302716625958275
+ },
+ {
+  "device_id": "SV-0034",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6875143406230719,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.51156312862159
+ },
+ {
+  "device_id": "SV-0035",
+  "mode": "firmware_regression",
+  "onset_day": 30,
+  "hard_failure_day": null,
+  "severity_scale": 0.35222382302440514,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.16189929951050075
+ },
+ {
+  "device_id": "SV-0036",
+  "mode": "battery_degradation",
+  "onset_day": 49,
+  "hard_failure_day": 82,
+  "severity_scale": 0.6692260263406586,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.42370588694429423
+ },
+ {
+  "device_id": "SV-0037",
+  "mode": "brush_hair_wrap",
+  "onset_day": 41,
+  "hard_failure_day": 71,
+  "severity_scale": 1.073122194460015,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.36149640101776076
+ },
+ {
+  "device_id": "SV-0038",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5494073674516694,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3024161361917244
+ },
+ {
+  "device_id": "SV-0039",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0253954191047783,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3346706330135281
+ },
+ {
+  "device_id": "SV-0040",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8890613456565658,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.39604366382298145
+ },
+ {
+  "device_id": "SV-0041",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6170201189679357,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.20150274883175426
+ },
+ {
+  "device_id": "SV-0042",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.33666390385042505,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3366886653093371
+ },
+ {
+  "device_id": "SV-0043",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8703764287963994,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.28068966940248935
+ },
+ {
+  "device_id": "SV-0044",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.816459222960439,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.33174099190655704
+ },
+ {
+  "device_id": "SV-0045",
+  "mode": "wheel_wear",
+  "onset_day": 44,
+  "hard_failure_day": 67,
+  "severity_scale": 1.0714247502799557,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.42724906927299516
+ },
+ {
+  "device_id": "SV-0046",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4637546640892207,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5957568286265189
+ },
+ {
+  "device_id": "SV-0047",
+  "mode": "clogged_filter",
+  "onset_day": 38,
+  "hard_failure_day": 61,
+  "severity_scale": 0.7431947865876436,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4455145852939787
+ },
+ {
+  "device_id": "SV-0048",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9483317418873738,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.16214858771286586
+ },
+ {
+  "device_id": "SV-0049",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8970428090383346,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.7044845621166657
+ },
+ {
+  "device_id": "SV-0050",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3035544261568228,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5410358786771909
+ },
+ {
+  "device_id": "SV-0051",
+  "mode": "firmware_regression",
+  "onset_day": 40,
+  "hard_failure_day": null,
+  "severity_scale": 0.3777538786892398,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.5842298890744626
+ },
+ {
+  "device_id": "SV-0052",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8696563688999549,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.19777531406687976
+ },
+ {
+  "device_id": "SV-0053",
+  "mode": "battery_degradation",
+  "onset_day": 41,
+  "hard_failure_day": 69,
+  "severity_scale": 0.6881947307300215,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.15998127555807362
+ },
+ {
+  "device_id": "SV-0054",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1971572978058378,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6720134662693653
+ },
+ {
+  "device_id": "SV-0055",
+  "mode": "wheel_wear",
+  "onset_day": 15,
+  "hard_failure_day": 45,
+  "severity_scale": 1.0393606628187844,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4478089187060714
+ },
+ {
+  "device_id": "SV-0056",
+  "mode": "battery_degradation",
+  "onset_day": 33,
+  "hard_failure_day": 55,
+  "severity_scale": 0.9006263466595785,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.46433428954616457
+ },
+ {
+  "device_id": "SV-0057",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8556541235611911,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4660556125532905
+ },
+ {
+  "device_id": "SV-0058",
+  "mode": "wheel_wear",
+  "onset_day": 38,
+  "hard_failure_day": 69,
+  "severity_scale": 0.6878883500729445,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4118609510332003
+ },
+ {
+  "device_id": "SV-0059",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.116496791365255,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.25923835236698317
+ },
+ {
+  "device_id": "SV-0060",
+  "mode": "firmware_regression",
+  "onset_day": 35,
+  "hard_failure_day": null,
+  "severity_scale": 0.37248170284332555,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.13544055068667307
+ },
+ {
+  "device_id": "SV-0061",
+  "mode": "firmware_regression",
+  "onset_day": 37,
+  "hard_failure_day": null,
+  "severity_scale": 0.4629700817852277,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.1940082510702624
+ },
+ {
+  "device_id": "SV-0062",
+  "mode": "firmware_regression",
+  "onset_day": 34,
+  "hard_failure_day": null,
+  "severity_scale": 0.6925581575329708,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.627887531848631
+ },
+ {
+  "device_id": "SV-0063",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7833267937275598,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.16382056849159643
+ },
+ {
+  "device_id": "SV-0064",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6757940949470589,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.5552565947633504
+ },
+ {
+  "device_id": "SV-0065",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1282138413349834,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.7132112146931404
+ },
+ {
+  "device_id": "SV-0066",
+  "mode": "firmware_regression",
+  "onset_day": 36,
+  "hard_failure_day": null,
+  "severity_scale": 0.8837154074690833,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.2823314560687704
+ },
+ {
+  "device_id": "SV-0067",
+  "mode": "firmware_regression",
+  "onset_day": 37,
+  "hard_failure_day": null,
+  "severity_scale": 0.9580688984810598,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.14192995329862376
+ },
+ {
+  "device_id": "SV-0068",
+  "mode": "wheel_wear",
+  "onset_day": 21,
+  "hard_failure_day": 50,
+  "severity_scale": 0.33982711981663205,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.17799301769914702
+ },
+ {
+  "device_id": "SV-0069",
+  "mode": "wheel_wear",
+  "onset_day": 14,
+  "hard_failure_day": 52,
+  "severity_scale": 1.1713678604523943,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.30958225895973207
+ },
+ {
+  "device_id": "SV-0070",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5809619225616848,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2995934219792645
+ },
+ {
+  "device_id": "SV-0071",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6544834785615787,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.32046182581183175
+ },
+ {
+  "device_id": "SV-0072",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8407748549127553,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.7053697827781232
+ },
+ {
+  "device_id": "SV-0073",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1398780416906045,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.434538213929705
+ },
+ {
+  "device_id": "SV-0074",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0386617844858135,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.48540346340861207
+ },
+ {
+  "device_id": "SV-0075",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9738553814768556,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.33428766569024754
+ },
+ {
+  "device_id": "SV-0076",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4638058609400983,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.14086727285230402
+ },
+ {
+  "device_id": "SV-0077",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1489509564534044,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.048482582020428454
+ },
+ {
+  "device_id": "SV-0078",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8983858359048915,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5107708995520897
+ },
+ {
+  "device_id": "SV-0079",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9267668489861404,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.24959993545674533
+ },
+ {
+  "device_id": "SV-0080",
+  "mode": "wheel_wear",
+  "onset_day": 46,
+  "hard_failure_day": 71,
+  "severity_scale": 0.3575421322135737,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.37807652219478005
+ },
+ {
+  "device_id": "SV-0081",
+  "mode": "wheel_wear",
+  "onset_day": 46,
+  "hard_failure_day": 74,
+  "severity_scale": 0.7887904243029537,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6438519793142475
+ },
+ {
+  "device_id": "SV-0082",
+  "mode": "brush_hair_wrap",
+  "onset_day": 41,
+  "hard_failure_day": 73,
+  "severity_scale": 0.6571212926566934,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5198188187713028
+ },
+ {
+  "device_id": "SV-0083",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0181956147129059,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.24228925107186836
+ },
+ {
+  "device_id": "SV-0084",
+  "mode": "brush_hair_wrap",
+  "onset_day": 23,
+  "hard_failure_day": 46,
+  "severity_scale": 0.8200165452650754,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.16244648165765105
+ },
+ {
+  "device_id": "SV-0085",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.36245941243496527,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5041264380866377
+ },
+ {
+  "device_id": "SV-0086",
+  "mode": "battery_degradation",
+  "onset_day": 17,
+  "hard_failure_day": 47,
+  "severity_scale": 0.8153936194863578,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3830204722365946
+ },
+ {
+  "device_id": "SV-0087",
+  "mode": "wheel_wear",
+  "onset_day": 39,
+  "hard_failure_day": 68,
+  "severity_scale": 0.668796957757935,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2238494720060288
+ },
+ {
+  "device_id": "SV-0088",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0276015753515397,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.41873030248945436
+ },
+ {
+  "device_id": "SV-0089",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.645024719828152,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.27838684119070095
+ },
+ {
+  "device_id": "SV-0090",
+  "mode": "battery_degradation",
+  "onset_day": 46,
+  "hard_failure_day": 68,
+  "severity_scale": 0.5342901207341446,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.456619634370729
+ },
+ {
+  "device_id": "SV-0091",
+  "mode": "clogged_filter",
+  "onset_day": 36,
+  "hard_failure_day": 74,
+  "severity_scale": 1.172574555420658,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.49148097131452845
+ },
+ {
+  "device_id": "SV-0092",
+  "mode": "clogged_filter",
+  "onset_day": 24,
+  "hard_failure_day": 44,
+  "severity_scale": 1.1982276620193024,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.8496782416632478
+ },
+ {
+  "device_id": "SV-0093",
+  "mode": "battery_degradation",
+  "onset_day": 21,
+  "hard_failure_day": 45,
+  "severity_scale": 1.1428734520458654,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5089383274216718
+ },
+ {
+  "device_id": "SV-0094",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7567908824892574,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5902087404065117
+ },
+ {
+  "device_id": "SV-0095",
+  "mode": "brush_hair_wrap",
+  "onset_day": 18,
+  "hard_failure_day": 39,
+  "severity_scale": 0.7440261307994572,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4226684652738545
+ },
+ {
+  "device_id": "SV-0096",
+  "mode": "wheel_wear",
+  "onset_day": 36,
+  "hard_failure_day": 75,
+  "severity_scale": 0.926459793849177,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4378431745703939
+ },
+ {
+  "device_id": "SV-0097",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8312322216114623,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3346722464408333
+ },
+ {
+  "device_id": "SV-0098",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4597660688927366,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5770075956485066
+ },
+ {
+  "device_id": "SV-0099",
+  "mode": "wheel_wear",
+  "onset_day": 38,
+  "hard_failure_day": 64,
+  "severity_scale": 0.6994087216591631,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.43391973564135317
+ },
+ {
+  "device_id": "SV-0100",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0422562882143107,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.30374912114367175
+ },
+ {
+  "device_id": "SV-0101",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8737793515778463,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4235596226089175
+ },
+ {
+  "device_id": "SV-0102",
+  "mode": "firmware_regression",
+  "onset_day": 34,
+  "hard_failure_day": null,
+  "severity_scale": 0.7190044343661948,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.30303130076029866
+ },
+ {
+  "device_id": "SV-0103",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6817652885838615,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3233451566827065
+ },
+ {
+  "device_id": "SV-0104",
+  "mode": "firmware_regression",
+  "onset_day": 15,
+  "hard_failure_day": null,
+  "severity_scale": 0.6618155678233355,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.15398181922977994
+ },
+ {
+  "device_id": "SV-0105",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1675411210073052,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.5352267280038341
+ },
+ {
+  "device_id": "SV-0106",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9140685136611043,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.2939540306546815
+ },
+ {
+  "device_id": "SV-0107",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6990423437952409,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.06751883995347745
+ },
+ {
+  "device_id": "SV-0108",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1167428872348881,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.15434803853819157
+ },
+ {
+  "device_id": "SV-0109",
+  "mode": "firmware_regression",
+  "onset_day": 30,
+  "hard_failure_day": null,
+  "severity_scale": 0.8109606560292129,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.2433423447713373
+ },
+ {
+  "device_id": "SV-0110",
+  "mode": "battery_degradation",
+  "onset_day": 30,
+  "hard_failure_day": 67,
+  "severity_scale": 0.5121421388614027,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5546673037587864
+ },
+ {
+  "device_id": "SV-0111",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7162640863734668,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.2857485934816267
+ },
+ {
+  "device_id": "SV-0112",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3385002756997002,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.06252870713174531
+ },
+ {
+  "device_id": "SV-0113",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7035884066769975,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.31447810526969205
+ },
+ {
+  "device_id": "SV-0114",
+  "mode": "firmware_regression",
+  "onset_day": 22,
+  "hard_failure_day": null,
+  "severity_scale": 0.5152222527830742,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.7246994309631549
+ },
+ {
+  "device_id": "SV-0115",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.34712467999917523,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.41024017506745836
+ },
+ {
+  "device_id": "SV-0116",
+  "mode": "battery_degradation",
+  "onset_day": 24,
+  "hard_failure_day": 63,
+  "severity_scale": 0.42674446428202717,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.37372723741833397
+ },
+ {
+  "device_id": "SV-0117",
+  "mode": "clogged_filter",
+  "onset_day": 31,
+  "hard_failure_day": 65,
+  "severity_scale": 0.646789585993216,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7382326524294134
+ },
+ {
+  "device_id": "SV-0118",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7557816725870602,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5649407633944197
+ },
+ {
+  "device_id": "SV-0119",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.009350241245389,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.1721567857160017
+ },
+ {
+  "device_id": "SV-0120",
+  "mode": "clogged_filter",
+  "onset_day": 15,
+  "hard_failure_day": 44,
+  "severity_scale": 0.3540054486756784,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6396198480873283
+ },
+ {
+  "device_id": "SV-0121",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8771666355474278,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.05601774957409637
+ },
+ {
+  "device_id": "SV-0122",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6723851158431573,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.024764824533175432
+ },
+ {
+  "device_id": "SV-0123",
+  "mode": "clogged_filter",
+  "onset_day": 38,
+  "hard_failure_day": 71,
+  "severity_scale": 1.1178673169419158,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7865466774754286
+ },
+ {
+  "device_id": "SV-0124",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8004712239266074,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.26100116271432156
+ },
+ {
+  "device_id": "SV-0125",
+  "mode": "firmware_regression",
+  "onset_day": 22,
+  "hard_failure_day": null,
+  "severity_scale": 0.8220358103821677,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.360616855330377
+ },
+ {
+  "device_id": "SV-0126",
+  "mode": "battery_degradation",
+  "onset_day": 16,
+  "hard_failure_day": 40,
+  "severity_scale": 0.6857480352773123,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.2672585492276067
+ },
+ {
+  "device_id": "SV-0127",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.36683258056499063,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.47918760410646877
+ },
+ {
+  "device_id": "SV-0128",
+  "mode": "clogged_filter",
+  "onset_day": 19,
+  "hard_failure_day": 39,
+  "severity_scale": 0.7503617515025895,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.16619786331011227
+ },
+ {
+  "device_id": "SV-0129",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5663511328686045,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5401102037349015
+ },
+ {
+  "device_id": "SV-0130",
+  "mode": "firmware_regression",
+  "onset_day": 22,
+  "hard_failure_day": null,
+  "severity_scale": 1.1515364322927297,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.43370280361921626
+ },
+ {
+  "device_id": "SV-0131",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.43106070968635296,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.3414976374870859
+ },
+ {
+  "device_id": "SV-0132",
+  "mode": "firmware_regression",
+  "onset_day": 35,
+  "hard_failure_day": null,
+  "severity_scale": 0.3759368108231488,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.32667955762177414
+ },
+ {
+  "device_id": "SV-0133",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4338355154804624,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.04663334521203369
+ },
+ {
+  "device_id": "SV-0134",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9852031062518452,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7213435346089428
+ },
+ {
+  "device_id": "SV-0135",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.41632302593062,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5769703776556486
+ },
+ {
+  "device_id": "SV-0136",
+  "mode": "brush_hair_wrap",
+  "onset_day": 47,
+  "hard_failure_day": 80,
+  "severity_scale": 0.4751032862207552,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2394363220349238
+ },
+ {
+  "device_id": "SV-0137",
+  "mode": "wheel_wear",
+  "onset_day": 14,
+  "hard_failure_day": 37,
+  "severity_scale": 1.1667962581747826,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.21289335548482555
+ },
+ {
+  "device_id": "SV-0138",
+  "mode": "battery_degradation",
+  "onset_day": 44,
+  "hard_failure_day": 65,
+  "severity_scale": 0.6120234357578934,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4831472796144637
+ },
+ {
+  "device_id": "SV-0139",
+  "mode": "firmware_regression",
+  "onset_day": 23,
+  "hard_failure_day": null,
+  "severity_scale": 0.46176538490392893,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.40746437924883694
+ },
+ {
+  "device_id": "SV-0140",
+  "mode": "battery_degradation",
+  "onset_day": 39,
+  "hard_failure_day": 77,
+  "severity_scale": 0.8934990466286284,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.12404022304897624
+ },
+ {
+  "device_id": "SV-0141",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9853724304965165,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.1934271081734768
+ },
+ {
+  "device_id": "SV-0142",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5353977473855547,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.670843754861338
+ },
+ {
+  "device_id": "SV-0143",
+  "mode": "brush_hair_wrap",
+  "onset_day": 28,
+  "hard_failure_day": 66,
+  "severity_scale": 0.9092256978212359,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7879666322547384
+ },
+ {
+  "device_id": "SV-0144",
+  "mode": "firmware_regression",
+  "onset_day": 21,
+  "hard_failure_day": null,
+  "severity_scale": 0.41268515344790596,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.5552660255784447
+ },
+ {
+  "device_id": "SV-0145",
+  "mode": "clogged_filter",
+  "onset_day": 17,
+  "hard_failure_day": 37,
+  "severity_scale": 0.6776290673480295,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5889148476751774
+ },
+ {
+  "device_id": "SV-0146",
+  "mode": "brush_hair_wrap",
+  "onset_day": 19,
+  "hard_failure_day": 58,
+  "severity_scale": 0.665111406799701,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.10252525508580643
+ },
+ {
+  "device_id": "SV-0147",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6414982674215528,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.3096497138879701
+ },
+ {
+  "device_id": "SV-0148",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0279136194126512,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.6508852320940514
+ },
+ {
+  "device_id": "SV-0149",
+  "mode": "firmware_regression",
+  "onset_day": 36,
+  "hard_failure_day": null,
+  "severity_scale": 0.8984810589365934,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.2592133474036405
+ },
+ {
+  "device_id": "SV-0150",
+  "mode": "battery_degradation",
+  "onset_day": 36,
+  "hard_failure_day": 57,
+  "severity_scale": 0.6868423150080372,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.45792049983848304
+ },
+ {
+  "device_id": "SV-0151",
+  "mode": "clogged_filter",
+  "onset_day": 18,
+  "hard_failure_day": 49,
+  "severity_scale": 0.4662243965734847,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6118690552206677
+ },
+ {
+  "device_id": "SV-0152",
+  "mode": "brush_hair_wrap",
+  "onset_day": 26,
+  "hard_failure_day": 57,
+  "severity_scale": 0.6713430868233714,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4601065078268526
+ },
+ {
+  "device_id": "SV-0153",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6486314360168288,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.0826083489394031
+ },
+ {
+  "device_id": "SV-0154",
+  "mode": "clogged_filter",
+  "onset_day": 33,
+  "hard_failure_day": 60,
+  "severity_scale": 1.1494114992578515,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.28168410300325614
+ },
+ {
+  "device_id": "SV-0155",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0805469578475921,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.32972682506802364
+ },
+ {
+  "device_id": "SV-0156",
+  "mode": "brush_hair_wrap",
+  "onset_day": 25,
+  "hard_failure_day": 52,
+  "severity_scale": 0.3234612636625513,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6886798423940105
+ },
+ {
+  "device_id": "SV-0157",
+  "mode": "battery_degradation",
+  "onset_day": 42,
+  "hard_failure_day": 67,
+  "severity_scale": 0.8998952236058189,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.40921048604844135
+ },
+ {
+  "device_id": "SV-0158",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7638330879073325,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.33585767958221446
+ },
+ {
+  "device_id": "SV-0159",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6046274995315164,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.2966449473751801
+ },
+ {
+  "device_id": "SV-0160",
+  "mode": "clogged_filter",
+  "onset_day": 29,
+  "hard_failure_day": 52,
+  "severity_scale": 0.7240542404472622,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3022786789715355
+ },
+ {
+  "device_id": "SV-0161",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3019603664186068,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.53192419080524
+ },
+ {
+  "device_id": "SV-0162",
+  "mode": "battery_degradation",
+  "onset_day": 47,
+  "hard_failure_day": 72,
+  "severity_scale": 0.9234576100620133,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5936941740809646
+ },
+ {
+  "device_id": "SV-0163",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9325999688656651,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5303831612724889
+ },
+ {
+  "device_id": "SV-0164",
+  "mode": "clogged_filter",
+  "onset_day": 44,
+  "hard_failure_day": 71,
+  "severity_scale": 1.1125737431135438,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.34878377708479363
+ },
+ {
+  "device_id": "SV-0165",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1106826484826129,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.09895832633795104
+ },
+ {
+  "device_id": "SV-0166",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6425728927144527,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6291715225862021
+ },
+ {
+  "device_id": "SV-0167",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1474635087902938,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4111398588482746
+ },
+ {
+  "device_id": "SV-0168",
+  "mode": "brush_hair_wrap",
+  "onset_day": 19,
+  "hard_failure_day": 48,
+  "severity_scale": 0.6236628575028313,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.28404692862797043
+ },
+ {
+  "device_id": "SV-0169",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0053744764663506,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3885555182995511
+ },
+ {
+  "device_id": "SV-0170",
+  "mode": "battery_degradation",
+  "onset_day": 43,
+  "hard_failure_day": 80,
+  "severity_scale": 0.3661004949761723,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4905352950101685
+ },
+ {
+  "device_id": "SV-0171",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7746110485360794,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5744329220920152
+ },
+ {
+  "device_id": "SV-0172",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.084162166907061,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.499981726486371
+ },
+ {
+  "device_id": "SV-0173",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0514069444407788,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.17007937031662546
+ },
+ {
+  "device_id": "SV-0174",
+  "mode": "clogged_filter",
+  "onset_day": 42,
+  "hard_failure_day": 63,
+  "severity_scale": 0.8847375302096919,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6495262662474321
+ },
+ {
+  "device_id": "SV-0175",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7912282317231073,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.498107905734542
+ },
+ {
+  "device_id": "SV-0176",
+  "mode": "battery_degradation",
+  "onset_day": 17,
+  "hard_failure_day": 54,
+  "severity_scale": 0.45711701693910073,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6864589712483832
+ },
+ {
+  "device_id": "SV-0177",
+  "mode": "clogged_filter",
+  "onset_day": 44,
+  "hard_failure_day": 81,
+  "severity_scale": 0.722653249200358,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.33608708697322337
+ },
+ {
+  "device_id": "SV-0178",
+  "mode": "brush_hair_wrap",
+  "onset_day": 16,
+  "hard_failure_day": 44,
+  "severity_scale": 0.34189531912816457,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5274306878669562
+ },
+ {
+  "device_id": "SV-0179",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4175214601316035,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.6400213947341548
+ },
+ {
+  "device_id": "SV-0180",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9195131045001771,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3686700017262783
+ },
+ {
+  "device_id": "SV-0181",
+  "mode": "brush_hair_wrap",
+  "onset_day": 42,
+  "hard_failure_day": 73,
+  "severity_scale": 0.9400283390077644,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.20944155220508853
+ },
+ {
+  "device_id": "SV-0182",
+  "mode": "firmware_regression",
+  "onset_day": 36,
+  "hard_failure_day": null,
+  "severity_scale": 0.7837008887452688,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.13482235444419788
+ },
+ {
+  "device_id": "SV-0183",
+  "mode": "clogged_filter",
+  "onset_day": 20,
+  "hard_failure_day": 53,
+  "severity_scale": 0.47394978771591734,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6576845076078982
+ },
+ {
+  "device_id": "SV-0184",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0277692551571864,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.20133982601701797
+ },
+ {
+  "device_id": "SV-0185",
+  "mode": "clogged_filter",
+  "onset_day": 40,
+  "hard_failure_day": 71,
+  "severity_scale": 0.8876792344419355,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4434431799484078
+ },
+ {
+  "device_id": "SV-0186",
+  "mode": "battery_degradation",
+  "onset_day": 24,
+  "hard_failure_day": 55,
+  "severity_scale": 1.1217635966012278,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4915370104855841
+ },
+ {
+  "device_id": "SV-0187",
+  "mode": "brush_hair_wrap",
+  "onset_day": 17,
+  "hard_failure_day": 52,
+  "severity_scale": 0.6548795702829802,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.21627715677388193
+ },
+ {
+  "device_id": "SV-0188",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9717638921232317,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.22619558414308258
+ },
+ {
+  "device_id": "SV-0189",
+  "mode": "battery_degradation",
+  "onset_day": 47,
+  "hard_failure_day": 73,
+  "severity_scale": 0.5821314947826342,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4629183492907305
+ },
+ {
+  "device_id": "SV-0190",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1164179287739946,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.8033871622553515
+ },
+ {
+  "device_id": "SV-0191",
+  "mode": "battery_degradation",
+  "onset_day": 21,
+  "hard_failure_day": 51,
+  "severity_scale": 0.7114008411278787,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6595360892503153
+ },
+ {
+  "device_id": "SV-0192",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9997867521414309,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.17779187896868096
+ },
+ {
+  "device_id": "SV-0193",
+  "mode": "wheel_wear",
+  "onset_day": 40,
+  "hard_failure_day": 70,
+  "severity_scale": 0.8929839547274986,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.06348198568160114
+ },
+ {
+  "device_id": "SV-0194",
+  "mode": "clogged_filter",
+  "onset_day": 37,
+  "hard_failure_day": 61,
+  "severity_scale": 0.6761020131723562,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.19553946005915754
+ },
+ {
+  "device_id": "SV-0195",
+  "mode": "firmware_regression",
+  "onset_day": 34,
+  "hard_failure_day": null,
+  "severity_scale": 0.9999856634120894,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.2209888925743382
+ },
+ {
+  "device_id": "SV-0196",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0482047668224481,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.054076992322758914
+ },
+ {
+  "device_id": "SV-0197",
+  "mode": "firmware_regression",
+  "onset_day": 21,
+  "hard_failure_day": null,
+  "severity_scale": 0.47077344518868913,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.5579493981362372
+ },
+ {
+  "device_id": "SV-0198",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.37724137642542915,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.0919684290422971
+ },
+ {
+  "device_id": "SV-0199",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7563105648164912,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4163226320144272
+ },
+ {
+  "device_id": "SV-0200",
+  "mode": "wheel_wear",
+  "onset_day": 45,
+  "hard_failure_day": 82,
+  "severity_scale": 0.7899368130340635,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.09345891017636876
+ },
+ {
+  "device_id": "SV-0201",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6400011306113236,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.34731491024590067
+ },
+ {
+  "device_id": "SV-0202",
+  "mode": "firmware_regression",
+  "onset_day": 19,
+  "hard_failure_day": null,
+  "severity_scale": 0.5497559214915333,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.34672692615390754
+ },
+ {
+  "device_id": "SV-0203",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4872207415299733,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4313471415122642
+ },
+ {
+  "device_id": "SV-0204",
+  "mode": "wheel_wear",
+  "onset_day": 23,
+  "hard_failure_day": 57,
+  "severity_scale": 0.818218691776309,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.09157659911394347
+ },
+ {
+  "device_id": "SV-0205",
+  "mode": "wheel_wear",
+  "onset_day": 31,
+  "hard_failure_day": 60,
+  "severity_scale": 0.9448717736630585,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5114849284759898
+ },
+ {
+  "device_id": "SV-0206",
+  "mode": "clogged_filter",
+  "onset_day": 14,
+  "hard_failure_day": 45,
+  "severity_scale": 0.3771669136055176,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.2102525222800233
+ },
+ {
+  "device_id": "SV-0207",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5710196922189311,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.4487133474971115
+ },
+ {
+  "device_id": "SV-0208",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1696294902378095,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.2743781617584404
+ },
+ {
+  "device_id": "SV-0209",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8828429821961508,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3755521974009027
+ },
+ {
+  "device_id": "SV-0210",
+  "mode": "battery_degradation",
+  "onset_day": 27,
+  "hard_failure_day": 65,
+  "severity_scale": 0.7091912404026693,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.21908145507735757
+ },
+ {
+  "device_id": "SV-0211",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5421982869255206,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.20265203828565623
+ },
+ {
+  "device_id": "SV-0212",
+  "mode": "brush_hair_wrap",
+  "onset_day": 33,
+  "hard_failure_day": 57,
+  "severity_scale": 0.47173059553157615,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.02952969383700619
+ },
+ {
+  "device_id": "SV-0213",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1963231272211512,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.8133776391360352
+ },
+ {
+  "device_id": "SV-0214",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5920073189383931,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.1937720145373581
+ },
+ {
+  "device_id": "SV-0215",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0233170684095423,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.33943547065361435
+ },
+ {
+  "device_id": "SV-0216",
+  "mode": "brush_hair_wrap",
+  "onset_day": 33,
+  "hard_failure_day": 53,
+  "severity_scale": 0.9138973591961319,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.2597049754951227
+ },
+ {
+  "device_id": "SV-0217",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.050013866776,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.40412529822646054
+ },
+ {
+  "device_id": "SV-0218",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.146839705827652,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.18693708334004924
+ },
+ {
+  "device_id": "SV-0219",
+  "mode": "wheel_wear",
+  "onset_day": 40,
+  "hard_failure_day": 69,
+  "severity_scale": 0.39415037860405006,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5912793441174344
+ },
+ {
+  "device_id": "SV-0220",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1778685487977878,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.09297793562884735
+ },
+ {
+  "device_id": "SV-0221",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7094629145239509,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.8170664920091241
+ },
+ {
+  "device_id": "SV-0222",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6237906120523955,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6396964162849517
+ },
+ {
+  "device_id": "SV-0223",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6074019155803007,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.07307963378717977
+ },
+ {
+  "device_id": "SV-0224",
+  "mode": "firmware_regression",
+  "onset_day": 15,
+  "hard_failure_day": null,
+  "severity_scale": 0.8823411642543194,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.3250245658112093
+ },
+ {
+  "device_id": "SV-0225",
+  "mode": "wheel_wear",
+  "onset_day": 28,
+  "hard_failure_day": 53,
+  "severity_scale": 0.9476529634560559,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.28738189693948046
+ },
+ {
+  "device_id": "SV-0226",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0894637816450243,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3919223071312197
+ },
+ {
+  "device_id": "SV-0227",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0152784404784656,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4955068250722505
+ },
+ {
+  "device_id": "SV-0228",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9552501260682942,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.1600978568775884
+ },
+ {
+  "device_id": "SV-0229",
+  "mode": "battery_degradation",
+  "onset_day": 14,
+  "hard_failure_day": 43,
+  "severity_scale": 1.0096255102552167,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6938162336925136
+ },
+ {
+  "device_id": "SV-0230",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.180728208220539,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5648141691781803
+ },
+ {
+  "device_id": "SV-0231",
+  "mode": "firmware_regression",
+  "onset_day": 21,
+  "hard_failure_day": null,
+  "severity_scale": 0.37500525229161263,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.9077697663622878
+ },
+ {
+  "device_id": "SV-0232",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1630815766757507,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2992431195773758
+ },
+ {
+  "device_id": "SV-0233",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.382614063375467,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5349129945151404
+ },
+ {
+  "device_id": "SV-0234",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.38437880167394234,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.40984885646291846
+ },
+ {
+  "device_id": "SV-0235",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0041081571000856,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.6724571653364763
+ },
+ {
+  "device_id": "SV-0236",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8060074980795795,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.44255688172271496
+ },
+ {
+  "device_id": "SV-0237",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7391329719453534,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.43009553831585995
+ },
+ {
+  "device_id": "SV-0238",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1956712461493317,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3442344554402729
+ },
+ {
+  "device_id": "SV-0239",
+  "mode": "wheel_wear",
+  "onset_day": 22,
+  "hard_failure_day": 60,
+  "severity_scale": 0.6473175978422115,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.37848505574932434
+ },
+ {
+  "device_id": "SV-0240",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.36355928789597197,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.46998162770434315
+ },
+ {
+  "device_id": "SV-0241",
+  "mode": "wheel_wear",
+  "onset_day": 28,
+  "hard_failure_day": 49,
+  "severity_scale": 1.0930137145211867,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5938972119169307
+ },
+ {
+  "device_id": "SV-0242",
+  "mode": "firmware_regression",
+  "onset_day": 17,
+  "hard_failure_day": null,
+  "severity_scale": 0.5503002366377288,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.23977053703256443
+ },
+ {
+  "device_id": "SV-0243",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9625711163811299,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5380217080191371
+ },
+ {
+  "device_id": "SV-0244",
+  "mode": "clogged_filter",
+  "onset_day": 15,
+  "hard_failure_day": 50,
+  "severity_scale": 0.6524282854569178,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5015025609892433
+ },
+ {
+  "device_id": "SV-0245",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5662794654353713,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6535156611277578
+ },
+ {
+  "device_id": "SV-0246",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8405035678547018,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.43980978268229715
+ },
+ {
+  "device_id": "SV-0247",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0686690912872903,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6465183203605622
+ },
+ {
+  "device_id": "SV-0248",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1979626947933244,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.32353790046378655
+ },
+ {
+  "device_id": "SV-0249",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8515764174228336,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.787602279285987
+ },
+ {
+  "device_id": "SV-0250",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7345361211996471,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.16240228248013433
+ },
+ {
+  "device_id": "SV-0251",
+  "mode": "firmware_regression",
+  "onset_day": 40,
+  "hard_failure_day": null,
+  "severity_scale": 0.6037753660053382,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.5118743171581499
+ },
+ {
+  "device_id": "SV-0252",
+  "mode": "battery_degradation",
+  "onset_day": 42,
+  "hard_failure_day": 65,
+  "severity_scale": 1.126257055162227,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4279608314630618
+ },
+ {
+  "device_id": "SV-0253",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5480620373605926,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5061301119919299
+ },
+ {
+  "device_id": "SV-0254",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.49391865119683354,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.10731212656340526
+ },
+ {
+  "device_id": "SV-0255",
+  "mode": "wheel_wear",
+  "onset_day": 32,
+  "hard_failure_day": 59,
+  "severity_scale": 0.7017093224035992,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.15441596870897548
+ },
+ {
+  "device_id": "SV-0256",
+  "mode": "brush_hair_wrap",
+  "onset_day": 26,
+  "hard_failure_day": 51,
+  "severity_scale": 1.1438368279907736,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4167464465868496
+ },
+ {
+  "device_id": "SV-0257",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3214317530788236,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4577977427710245
+ },
+ {
+  "device_id": "SV-0258",
+  "mode": "battery_degradation",
+  "onset_day": 16,
+  "hard_failure_day": 50,
+  "severity_scale": 1.103647983679529,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.26594216804196613
+ },
+ {
+  "device_id": "SV-0259",
+  "mode": "battery_degradation",
+  "onset_day": 49,
+  "hard_failure_day": 75,
+  "severity_scale": 0.9615136122017028,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5050896425928862
+ },
+ {
+  "device_id": "SV-0260",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4869336523319702,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.06466375544014272
+ },
+ {
+  "device_id": "SV-0261",
+  "mode": "brush_hair_wrap",
+  "onset_day": 34,
+  "hard_failure_day": 55,
+  "severity_scale": 0.9000732281912804,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.44309510703147126
+ },
+ {
+  "device_id": "SV-0262",
+  "mode": "brush_hair_wrap",
+  "onset_day": 43,
+  "hard_failure_day": 65,
+  "severity_scale": 1.1686807763623899,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5953115147482073
+ },
+ {
+  "device_id": "SV-0263",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.31208741861774103,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.33801789263608534
+ },
+ {
+  "device_id": "SV-0264",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.47326301237812857,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4578042512262188
+ },
+ {
+  "device_id": "SV-0265",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3404958913202753,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5597519474454352
+ },
+ {
+  "device_id": "SV-0266",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5786946135217778,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.33298937082541913
+ },
+ {
+  "device_id": "SV-0267",
+  "mode": "battery_degradation",
+  "onset_day": 47,
+  "hard_failure_day": 67,
+  "severity_scale": 0.5278210165143807,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2163466914206038
+ },
+ {
+  "device_id": "SV-0268",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7373215010884977,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.42958344064544307
+ },
+ {
+  "device_id": "SV-0269",
+  "mode": "firmware_regression",
+  "onset_day": 35,
+  "hard_failure_day": null,
+  "severity_scale": 0.8026862480154529,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.45514547552860557
+ },
+ {
+  "device_id": "SV-0270",
+  "mode": "firmware_regression",
+  "onset_day": 37,
+  "hard_failure_day": null,
+  "severity_scale": 0.5603210272790445,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.5061006572956409
+ },
+ {
+  "device_id": "SV-0271",
+  "mode": "battery_degradation",
+  "onset_day": 20,
+  "hard_failure_day": 47,
+  "severity_scale": 1.1057257906629447,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7592365441915625
+ },
+ {
+  "device_id": "SV-0272",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.646980411609569,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5152282508035043
+ },
+ {
+  "device_id": "SV-0273",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7576166687109004,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6857049518427586
+ },
+ {
+  "device_id": "SV-0274",
+  "mode": "brush_hair_wrap",
+  "onset_day": 31,
+  "hard_failure_day": 54,
+  "severity_scale": 0.884831490393495,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.08722123752789784
+ },
+ {
+  "device_id": "SV-0275",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6084123569265218,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3737899206135926
+ },
+ {
+  "device_id": "SV-0276",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8226422663207722,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.20069102107543613
+ },
+ {
+  "device_id": "SV-0277",
+  "mode": "firmware_regression",
+  "onset_day": 21,
+  "hard_failure_day": null,
+  "severity_scale": 1.1750823820091898,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.6657758702130406
+ },
+ {
+  "device_id": "SV-0278",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0907872897195232,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5658431698770005
+ },
+ {
+  "device_id": "SV-0279",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.41147101202146685,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3569926775857084
+ },
+ {
+  "device_id": "SV-0280",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8305474292566696,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.38607790868285463
+ },
+ {
+  "device_id": "SV-0281",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7546640251394195,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4183607750642051
+ },
+ {
+  "device_id": "SV-0282",
+  "mode": "battery_degradation",
+  "onset_day": 28,
+  "hard_failure_day": 67,
+  "severity_scale": 0.32175233603473147,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6176137680742414
+ },
+ {
+  "device_id": "SV-0283",
+  "mode": "wheel_wear",
+  "onset_day": 36,
+  "hard_failure_day": 59,
+  "severity_scale": 0.892059557549399,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.875834628170103
+ },
+ {
+  "device_id": "SV-0284",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0241667352925485,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.14110904315584696
+ },
+ {
+  "device_id": "SV-0285",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8686179518267749,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.42993195047946753
+ },
+ {
+  "device_id": "SV-0286",
+  "mode": "clogged_filter",
+  "onset_day": 35,
+  "hard_failure_day": 61,
+  "severity_scale": 0.6899299020890044,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.42599613933793196
+ },
+ {
+  "device_id": "SV-0287",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9270027191143435,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6243218422249133
+ },
+ {
+  "device_id": "SV-0288",
+  "mode": "wheel_wear",
+  "onset_day": 33,
+  "hard_failure_day": 68,
+  "severity_scale": 0.8428540599196627,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4678451244375252
+ },
+ {
+  "device_id": "SV-0289",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0235286232862257,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.18249358645608282
+ },
+ {
+  "device_id": "SV-0290",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.31529083692362686,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.336253772677399
+ },
+ {
+  "device_id": "SV-0291",
+  "mode": "clogged_filter",
+  "onset_day": 20,
+  "hard_failure_day": 53,
+  "severity_scale": 0.5047955769742994,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.34823849600447687
+ },
+ {
+  "device_id": "SV-0292",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1793709264450467,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.07934294906337565
+ },
+ {
+  "device_id": "SV-0293",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5955508952788673,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.61611108397865
+ },
+ {
+  "device_id": "SV-0294",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.995951213831092,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7014297525380462
+ },
+ {
+  "device_id": "SV-0295",
+  "mode": "brush_hair_wrap",
+  "onset_day": 39,
+  "hard_failure_day": 77,
+  "severity_scale": 0.4105411219240137,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5285649067824562
+ },
+ {
+  "device_id": "SV-0296",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6675307546862008,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4781773762954757
+ },
+ {
+  "device_id": "SV-0297",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9233286807283113,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6835437455890536
+ },
+ {
+  "device_id": "SV-0298",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7718753688372383,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.273499418243481
+ },
+ {
+  "device_id": "SV-0299",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.532047704697622,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4305268733202516
+ },
+ {
+  "device_id": "SV-0300",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7640604682790846,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3002266580211016
+ },
+ {
+  "device_id": "SV-0301",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.593734867699921,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2965862634834836
+ },
+ {
+  "device_id": "SV-0302",
+  "mode": "wheel_wear",
+  "onset_day": 38,
+  "hard_failure_day": 58,
+  "severity_scale": 0.8971712473612724,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.28414302456396273
+ },
+ {
+  "device_id": "SV-0303",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7131363708098528,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.41183943347096774
+ },
+ {
+  "device_id": "SV-0304",
+  "mode": "wheel_wear",
+  "onset_day": 46,
+  "hard_failure_day": 68,
+  "severity_scale": 0.3473168654982348,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.16421295085835444
+ },
+ {
+  "device_id": "SV-0305",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6710621721734196,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.381313509897611
+ },
+ {
+  "device_id": "SV-0306",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1963614990525928,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5900236411253764
+ },
+ {
+  "device_id": "SV-0307",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3751405675740594,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.24440466495612057
+ },
+ {
+  "device_id": "SV-0308",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.36970504598197984,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.051173792178927154
+ },
+ {
+  "device_id": "SV-0309",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1540738678451317,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.22657075732875437
+ },
+ {
+  "device_id": "SV-0310",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.137003511252722,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.19032645324449513
+ },
+ {
+  "device_id": "SV-0311",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.087981364006878,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4645994700325019
+ },
+ {
+  "device_id": "SV-0312",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8914596683281747,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3294230975436891
+ },
+ {
+  "device_id": "SV-0313",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3669479394033078,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.31650059064075614
+ },
+ {
+  "device_id": "SV-0314",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6834714490055129,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5310481881683475
+ },
+ {
+  "device_id": "SV-0315",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.935144067907888,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4158097287709605
+ },
+ {
+  "device_id": "SV-0316",
+  "mode": "brush_hair_wrap",
+  "onset_day": 20,
+  "hard_failure_day": 43,
+  "severity_scale": 0.4917647566355722,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.41741265697404206
+ },
+ {
+  "device_id": "SV-0317",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7171662202359236,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.21894699279215618
+ },
+ {
+  "device_id": "SV-0318",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1292901180249835,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.08913012910990073
+ },
+ {
+  "device_id": "SV-0319",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4636186169528551,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5201122060169912
+ },
+ {
+  "device_id": "SV-0320",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8119028006608847,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.055959101955361155
+ },
+ {
+  "device_id": "SV-0321",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3511495932796026,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.43959561080428683
+ },
+ {
+  "device_id": "SV-0322",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6070736516867249,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4191649945598522
+ },
+ {
+  "device_id": "SV-0323",
+  "mode": "clogged_filter",
+  "onset_day": 23,
+  "hard_failure_day": 62,
+  "severity_scale": 0.9378573541705721,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.24177062147735168
+ },
+ {
+  "device_id": "SV-0324",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6312903755971659,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.24060976464051784
+ },
+ {
+  "device_id": "SV-0325",
+  "mode": "wheel_wear",
+  "onset_day": 46,
+  "hard_failure_day": 76,
+  "severity_scale": 0.3569547436561323,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.25777093530685
+ },
+ {
+  "device_id": "SV-0326",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6229921308656212,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.435276771638537
+ },
+ {
+  "device_id": "SV-0327",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0420761032962595,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.19898811216576612
+ },
+ {
+  "device_id": "SV-0328",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8242390938397934,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4843759837189995
+ },
+ {
+  "device_id": "SV-0329",
+  "mode": "battery_degradation",
+  "onset_day": 48,
+  "hard_failure_day": 70,
+  "severity_scale": 0.3682128943267299,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.12211695188332036
+ },
+ {
+  "device_id": "SV-0330",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0875890006481073,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2116477261247035
+ },
+ {
+  "device_id": "SV-0331",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.43706911514020985,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.52537620250846
+ },
+ {
+  "device_id": "SV-0332",
+  "mode": "wheel_wear",
+  "onset_day": 48,
+  "hard_failure_day": 70,
+  "severity_scale": 0.9179818213288211,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.19964012619025373
+ },
+ {
+  "device_id": "SV-0333",
+  "mode": "battery_degradation",
+  "onset_day": 33,
+  "hard_failure_day": 62,
+  "severity_scale": 1.1725256088450386,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.24224048949579044
+ },
+ {
+  "device_id": "SV-0334",
+  "mode": "brush_hair_wrap",
+  "onset_day": 38,
+  "hard_failure_day": 60,
+  "severity_scale": 0.9683380203101829,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5909170330768002
+ },
+ {
+  "device_id": "SV-0335",
+  "mode": "firmware_regression",
+  "onset_day": 28,
+  "hard_failure_day": null,
+  "severity_scale": 1.0501919792262782,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.4865969824258825
+ },
+ {
+  "device_id": "SV-0336",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5923102914474938,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.20791694442299463
+ },
+ {
+  "device_id": "SV-0337",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3082932686954037,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5099686502961691
+ },
+ {
+  "device_id": "SV-0338",
+  "mode": "brush_hair_wrap",
+  "onset_day": 16,
+  "hard_failure_day": 47,
+  "severity_scale": 0.5939840589147222,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6258472313524595
+ },
+ {
+  "device_id": "SV-0339",
+  "mode": "firmware_regression",
+  "onset_day": 34,
+  "hard_failure_day": null,
+  "severity_scale": 0.47630437382257557,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.32543365506912664
+ },
+ {
+  "device_id": "SV-0340",
+  "mode": "wheel_wear",
+  "onset_day": 27,
+  "hard_failure_day": 55,
+  "severity_scale": 0.7611986245884375,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3044356297101813
+ },
+ {
+  "device_id": "SV-0341",
+  "mode": "clogged_filter",
+  "onset_day": 42,
+  "hard_failure_day": 63,
+  "severity_scale": 0.45719075118320884,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.24260104915225222
+ },
+ {
+  "device_id": "SV-0342",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1386019559112794,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.39392340804917525
+ },
+ {
+  "device_id": "SV-0343",
+  "mode": "clogged_filter",
+  "onset_day": 35,
+  "hard_failure_day": 68,
+  "severity_scale": 0.5717421843003619,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.07904415281582768
+ },
+ {
+  "device_id": "SV-0344",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.48052202134731,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.38272674706810766
+ },
+ {
+  "device_id": "SV-0345",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3434840756111792,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.49451830435440625
+ },
+ {
+  "device_id": "SV-0346",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5192863276754407,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.7803231828111417
+ },
+ {
+  "device_id": "SV-0347",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.48132463126419234,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4589388348265048
+ },
+ {
+  "device_id": "SV-0348",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3057903646569215,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5442500251928658
+ },
+ {
+  "device_id": "SV-0349",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.47968082361871106,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.4966220603716949
+ },
+ {
+  "device_id": "SV-0350",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7604183524453693,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3269834643415884
+ },
+ {
+  "device_id": "SV-0351",
+  "mode": "wheel_wear",
+  "onset_day": 36,
+  "hard_failure_day": 72,
+  "severity_scale": 0.9076922238161228,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6074068183216315
+ },
+ {
+  "device_id": "SV-0352",
+  "mode": "firmware_regression",
+  "onset_day": 30,
+  "hard_failure_day": null,
+  "severity_scale": 0.32049496548619394,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.20941318252087152
+ },
+ {
+  "device_id": "SV-0353",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.48695114098977377,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6337793549899917
+ },
+ {
+  "device_id": "SV-0354",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.47558991228199315,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7462123914377045
+ },
+ {
+  "device_id": "SV-0355",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7827877532831947,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3177102898100137
+ },
+ {
+  "device_id": "SV-0356",
+  "mode": "brush_hair_wrap",
+  "onset_day": 21,
+  "hard_failure_day": 54,
+  "severity_scale": 0.3353430598175389,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.20905469403862162
+ },
+ {
+  "device_id": "SV-0357",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.02946920536193,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.38373604733229116
+ },
+ {
+  "device_id": "SV-0358",
+  "mode": "brush_hair_wrap",
+  "onset_day": 36,
+  "hard_failure_day": 67,
+  "severity_scale": 0.7987019647531849,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3543683618988444
+ },
+ {
+  "device_id": "SV-0359",
+  "mode": "wheel_wear",
+  "onset_day": 39,
+  "hard_failure_day": 62,
+  "severity_scale": 0.3004519155385375,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5332207674412881
+ },
+ {
+  "device_id": "SV-0360",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8552748782831645,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.35926059346508976
+ },
+ {
+  "device_id": "SV-0361",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.41171503959045425,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3452207711791061
+ },
+ {
+  "device_id": "SV-0362",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5107355961756701,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.2647250747674669
+ },
+ {
+  "device_id": "SV-0363",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6531174347028488,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5208623424502267
+ },
+ {
+  "device_id": "SV-0364",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.41024507937327026,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3643409299178106
+ },
+ {
+  "device_id": "SV-0365",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8785818342048283,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.8483814735664312
+ },
+ {
+  "device_id": "SV-0366",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1588021023140875,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.37554663942628197
+ },
+ {
+  "device_id": "SV-0367",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5925691957244162,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.09371368343686481
+ },
+ {
+  "device_id": "SV-0368",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.38099940554551903,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.16227065155307407
+ },
+ {
+  "device_id": "SV-0369",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6190359371839597,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.28925758355488707
+ },
+ {
+  "device_id": "SV-0370",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1434223539246058,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.657509888775809
+ },
+ {
+  "device_id": "SV-0371",
+  "mode": "brush_hair_wrap",
+  "onset_day": 42,
+  "hard_failure_day": 74,
+  "severity_scale": 0.759582244476947,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5088193950734816
+ },
+ {
+  "device_id": "SV-0372",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5409573175417226,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4491799484104812
+ },
+ {
+  "device_id": "SV-0373",
+  "mode": "brush_hair_wrap",
+  "onset_day": 38,
+  "hard_failure_day": 60,
+  "severity_scale": 0.5035798392414484,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.33261877074161816
+ },
+ {
+  "device_id": "SV-0374",
+  "mode": "wheel_wear",
+  "onset_day": 21,
+  "hard_failure_day": 57,
+  "severity_scale": 0.6737734569500209,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.22264922683297814
+ },
+ {
+  "device_id": "SV-0375",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.930193049585037,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5366296823095099
+ },
+ {
+  "device_id": "SV-0376",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6901238789578557,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7361580789925402
+ },
+ {
+  "device_id": "SV-0377",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3878172429253137,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2505068934862562
+ },
+ {
+  "device_id": "SV-0378",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5020350647470263,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.7657241986183123
+ },
+ {
+  "device_id": "SV-0379",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.35664086858275357,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3653026676839346
+ },
+ {
+  "device_id": "SV-0380",
+  "mode": "wheel_wear",
+  "onset_day": 49,
+  "hard_failure_day": 80,
+  "severity_scale": 0.817193242756969,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5415322752153374
+ },
+ {
+  "device_id": "SV-0381",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.42106094666567845,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5810622643126887
+ },
+ {
+  "device_id": "SV-0382",
+  "mode": "wheel_wear",
+  "onset_day": 47,
+  "hard_failure_day": 70,
+  "severity_scale": 0.9632347810462369,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2956025943510894
+ },
+ {
+  "device_id": "SV-0383",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4659013702561138,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7553637491917436
+ },
+ {
+  "device_id": "SV-0384",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3896402664427291,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6532928482179517
+ },
+ {
+  "device_id": "SV-0385",
+  "mode": "clogged_filter",
+  "onset_day": 42,
+  "hard_failure_day": 76,
+  "severity_scale": 0.5009197758778123,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.22314413961900828
+ },
+ {
+  "device_id": "SV-0386",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6573543878121225,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3383668048731916
+ },
+ {
+  "device_id": "SV-0387",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3049511020728594,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.34608794845747376
+ },
+ {
+  "device_id": "SV-0388",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0826526358455844,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5965605709069439
+ },
+ {
+  "device_id": "SV-0389",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1987154680802399,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.208683471217335
+ },
+ {
+  "device_id": "SV-0390",
+  "mode": "firmware_regression",
+  "onset_day": 33,
+  "hard_failure_day": null,
+  "severity_scale": 0.9824323737467636,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.4144203536864145
+ },
+ {
+  "device_id": "SV-0391",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5489832674289145,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5940171658611589
+ },
+ {
+  "device_id": "SV-0392",
+  "mode": "clogged_filter",
+  "onset_day": 29,
+  "hard_failure_day": 64,
+  "severity_scale": 1.124146041611317,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.23034893324792088
+ },
+ {
+  "device_id": "SV-0393",
+  "mode": "firmware_regression",
+  "onset_day": 27,
+  "hard_failure_day": null,
+  "severity_scale": 1.1951720573165698,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.5274321997783755
+ },
+ {
+  "device_id": "SV-0394",
+  "mode": "wheel_wear",
+  "onset_day": 36,
+  "hard_failure_day": 67,
+  "severity_scale": 0.569806148989502,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.26395037689893097
+ },
+ {
+  "device_id": "SV-0395",
+  "mode": "firmware_regression",
+  "onset_day": 35,
+  "hard_failure_day": null,
+  "severity_scale": 0.9774980464509733,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.19747496170166673
+ },
+ {
+  "device_id": "SV-0396",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7645243775445685,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.28176781903868486
+ },
+ {
+  "device_id": "SV-0397",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3314573854146223,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4736753099515981
+ },
+ {
+  "device_id": "SV-0398",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9595914329645585,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.26107590571444517
+ },
+ {
+  "device_id": "SV-0399",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.32566479979842905,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.06679254619789618
+ },
+ {
+  "device_id": "SV-0400",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.30102175729344094,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.18642386902480337
+ },
+ {
+  "device_id": "SV-0401",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7213490807098443,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.200827699169036
+ },
+ {
+  "device_id": "SV-0402",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6104503723402691,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.31675781375717627
+ },
+ {
+  "device_id": "SV-0403",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.47185113658166067,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4983260085627483
+ },
+ {
+  "device_id": "SV-0404",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7752803504108525,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.582765383971534
+ },
+ {
+  "device_id": "SV-0405",
+  "mode": "firmware_regression",
+  "onset_day": 15,
+  "hard_failure_day": null,
+  "severity_scale": 0.9960040972390893,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.5076191736770649
+ },
+ {
+  "device_id": "SV-0406",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.40587558748681746,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4008639722581449
+ },
+ {
+  "device_id": "SV-0407",
+  "mode": "battery_degradation",
+  "onset_day": 27,
+  "hard_failure_day": 49,
+  "severity_scale": 0.5048603047075984,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2060355058127397
+ },
+ {
+  "device_id": "SV-0408",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7874316430446748,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3077871848979462
+ },
+ {
+  "device_id": "SV-0409",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4318009066311072,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.39956512484109064
+ },
+ {
+  "device_id": "SV-0410",
+  "mode": "brush_hair_wrap",
+  "onset_day": 38,
+  "hard_failure_day": 75,
+  "severity_scale": 1.136052730827603,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.38334105225114223
+ },
+ {
+  "device_id": "SV-0411",
+  "mode": "brush_hair_wrap",
+  "onset_day": 14,
+  "hard_failure_day": 36,
+  "severity_scale": 0.3090841300021042,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3737788287938489
+ },
+ {
+  "device_id": "SV-0412",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1345091015180033,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.25937074437779495
+ },
+ {
+  "device_id": "SV-0413",
+  "mode": "firmware_regression",
+  "onset_day": 29,
+  "hard_failure_day": null,
+  "severity_scale": 1.047712766213694,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.4920213707479515
+ },
+ {
+  "device_id": "SV-0414",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6154023501396955,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.06315518388528887
+ },
+ {
+  "device_id": "SV-0415",
+  "mode": "firmware_regression",
+  "onset_day": 21,
+  "hard_failure_day": null,
+  "severity_scale": 0.6113896040730882,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.08112911397415816
+ },
+ {
+  "device_id": "SV-0416",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.40755379306498374,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.638426542146631
+ },
+ {
+  "device_id": "SV-0417",
+  "mode": "wheel_wear",
+  "onset_day": 49,
+  "hard_failure_day": 77,
+  "severity_scale": 0.5854739217495918,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.31466768919135485
+ },
+ {
+  "device_id": "SV-0418",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8585724641902883,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5549310898012854
+ },
+ {
+  "device_id": "SV-0419",
+  "mode": "firmware_regression",
+  "onset_day": 34,
+  "hard_failure_day": null,
+  "severity_scale": 1.0783943829037785,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.9042213381040964
+ },
+ {
+  "device_id": "SV-0420",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.37873327666823753,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.7517888183770535
+ },
+ {
+  "device_id": "SV-0421",
+  "mode": "battery_degradation",
+  "onset_day": 18,
+  "hard_failure_day": 38,
+  "severity_scale": 0.30356150405198,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7257494020322506
+ },
+ {
+  "device_id": "SV-0422",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0428093019297704,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.28808410482913865
+ },
+ {
+  "device_id": "SV-0423",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1284218594902393,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.34919392232978114
+ },
+ {
+  "device_id": "SV-0424",
+  "mode": "clogged_filter",
+  "onset_day": 48,
+  "hard_failure_day": 74,
+  "severity_scale": 0.6345115483482251,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.048488126412010724
+ },
+ {
+  "device_id": "SV-0425",
+  "mode": "wheel_wear",
+  "onset_day": 31,
+  "hard_failure_day": 63,
+  "severity_scale": 0.4896176161142391,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5563841569400826
+ },
+ {
+  "device_id": "SV-0426",
+  "mode": "firmware_regression",
+  "onset_day": 23,
+  "hard_failure_day": null,
+  "severity_scale": 0.46679735924983295,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.33455126264556184
+ },
+ {
+  "device_id": "SV-0427",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7703588283013839,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.35484435722067814
+ },
+ {
+  "device_id": "SV-0428",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6603743593747763,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6381443550132028
+ },
+ {
+  "device_id": "SV-0429",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1729412040164702,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3510323640042836
+ },
+ {
+  "device_id": "SV-0430",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5073836627301035,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.5084709531540892
+ },
+ {
+  "device_id": "SV-0431",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7215046937169507,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.47530771154662826
+ },
+ {
+  "device_id": "SV-0432",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7701373773540359,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5169737243397623
+ },
+ {
+  "device_id": "SV-0433",
+  "mode": "battery_degradation",
+  "onset_day": 42,
+  "hard_failure_day": 69,
+  "severity_scale": 0.8051685969954874,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4575672748167545
+ },
+ {
+  "device_id": "SV-0434",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6182750122393948,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.28297995601030823
+ },
+ {
+  "device_id": "SV-0435",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7876156158169138,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.12455968966094674
+ },
+ {
+  "device_id": "SV-0436",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1649754838131632,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.562068470742973
+ },
+ {
+  "device_id": "SV-0437",
+  "mode": "wheel_wear",
+  "onset_day": 32,
+  "hard_failure_day": 54,
+  "severity_scale": 0.9247809669943722,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5628868850375939
+ },
+ {
+  "device_id": "SV-0438",
+  "mode": "firmware_regression",
+  "onset_day": 27,
+  "hard_failure_day": null,
+  "severity_scale": 0.6646037656499912,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.5187348570774138
+ },
+ {
+  "device_id": "SV-0439",
+  "mode": "firmware_regression",
+  "onset_day": 27,
+  "hard_failure_day": null,
+  "severity_scale": 1.1215762643109104,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.1142767204277148
+ },
+ {
+  "device_id": "SV-0440",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4363565494763783,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7800271295405253
+ },
+ {
+  "device_id": "SV-0441",
+  "mode": "clogged_filter",
+  "onset_day": 23,
+  "hard_failure_day": 59,
+  "severity_scale": 0.6986768159857576,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.12263480483713324
+ },
+ {
+  "device_id": "SV-0442",
+  "mode": "wheel_wear",
+  "onset_day": 37,
+  "hard_failure_day": 74,
+  "severity_scale": 0.6390655116324563,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.48050605542669383
+ },
+ {
+  "device_id": "SV-0443",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0762136456700524,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.28519927140850476
+ },
+ {
+  "device_id": "SV-0444",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0151658288827514,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4291290128803574
+ },
+ {
+  "device_id": "SV-0445",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0496161637084662,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.29354415882057683
+ },
+ {
+  "device_id": "SV-0446",
+  "mode": "clogged_filter",
+  "onset_day": 15,
+  "hard_failure_day": 46,
+  "severity_scale": 0.8162300534619291,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3971753911040549
+ },
+ {
+  "device_id": "SV-0447",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0564400744049631,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.08408933496377106
+ },
+ {
+  "device_id": "SV-0448",
+  "mode": "clogged_filter",
+  "onset_day": 46,
+  "hard_failure_day": 84,
+  "severity_scale": 0.7699863461818293,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6044049082584555
+ },
+ {
+  "device_id": "SV-0449",
+  "mode": "firmware_regression",
+  "onset_day": 32,
+  "hard_failure_day": null,
+  "severity_scale": 1.1258760476751868,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.5201134353892773
+ },
+ {
+  "device_id": "SV-0450",
+  "mode": "wheel_wear",
+  "onset_day": 41,
+  "hard_failure_day": 76,
+  "severity_scale": 0.7118306422933663,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2929105526056189
+ },
+ {
+  "device_id": "SV-0451",
+  "mode": "brush_hair_wrap",
+  "onset_day": 24,
+  "hard_failure_day": 54,
+  "severity_scale": 1.0722624820881321,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.23726973197563117
+ },
+ {
+  "device_id": "SV-0452",
+  "mode": "battery_degradation",
+  "onset_day": 25,
+  "hard_failure_day": 63,
+  "severity_scale": 0.5726411230262521,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.11672407398581872
+ },
+ {
+  "device_id": "SV-0453",
+  "mode": "firmware_regression",
+  "onset_day": 17,
+  "hard_failure_day": null,
+  "severity_scale": 0.5912381831757545,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.18068578729580262
+ },
+ {
+  "device_id": "SV-0454",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9333069474096212,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.09388625146214774
+ },
+ {
+  "device_id": "SV-0455",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4453672345885519,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.35639590459596804
+ },
+ {
+  "device_id": "SV-0456",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9364930817144639,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4713106810535428
+ },
+ {
+  "device_id": "SV-0457",
+  "mode": "firmware_regression",
+  "onset_day": 30,
+  "hard_failure_day": null,
+  "severity_scale": 0.6847282213771155,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.3047301122590813
+ },
+ {
+  "device_id": "SV-0458",
+  "mode": "wheel_wear",
+  "onset_day": 41,
+  "hard_failure_day": 61,
+  "severity_scale": 0.7773149237423989,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.34045246478267754
+ },
+ {
+  "device_id": "SV-0459",
+  "mode": "clogged_filter",
+  "onset_day": 42,
+  "hard_failure_day": 65,
+  "severity_scale": 0.6541520040929165,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.09822744072835929
+ },
+ {
+  "device_id": "SV-0460",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9791566072447013,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.24793248517880193
+ },
+ {
+  "device_id": "SV-0461",
+  "mode": "wheel_wear",
+  "onset_day": 43,
+  "hard_failure_day": 70,
+  "severity_scale": 0.5650012863649907,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5310934314797189
+ },
+ {
+  "device_id": "SV-0462",
+  "mode": "clogged_filter",
+  "onset_day": 20,
+  "hard_failure_day": 53,
+  "severity_scale": 0.9457062737016928,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6510551445309274
+ },
+ {
+  "device_id": "SV-0463",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.952069544796076,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.6806381874014922
+ },
+ {
+  "device_id": "SV-0464",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0583411069543411,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.03417794154726803
+ },
+ {
+  "device_id": "SV-0465",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0763396329214296,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.47190946013807417
+ },
+ {
+  "device_id": "SV-0466",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3805859397939991,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7582780617120599
+ },
+ {
+  "device_id": "SV-0467",
+  "mode": "clogged_filter",
+  "onset_day": 47,
+  "hard_failure_day": 69,
+  "severity_scale": 0.5098053744855576,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3099520249191583
+ },
+ {
+  "device_id": "SV-0468",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7323678437955788,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3696443590858728
+ },
+ {
+  "device_id": "SV-0469",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0593751502784259,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.6045647446920079
+ },
+ {
+  "device_id": "SV-0470",
+  "mode": "wheel_wear",
+  "onset_day": 49,
+  "hard_failure_day": 78,
+  "severity_scale": 0.5349371292497649,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.18086716267918698
+ },
+ {
+  "device_id": "SV-0471",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8952953469549432,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.1990787748943933
+ },
+ {
+  "device_id": "SV-0472",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5873265445013294,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.43769417478422945
+ },
+ {
+  "device_id": "SV-0473",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5342484769369669,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5848027335830047
+ },
+ {
+  "device_id": "SV-0474",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5939001193665083,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4753781339082572
+ },
+ {
+  "device_id": "SV-0475",
+  "mode": "clogged_filter",
+  "onset_day": 32,
+  "hard_failure_day": 63,
+  "severity_scale": 0.49188093346544826,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.46572760074980407
+ },
+ {
+  "device_id": "SV-0476",
+  "mode": "brush_hair_wrap",
+  "onset_day": 41,
+  "hard_failure_day": 72,
+  "severity_scale": 1.0033465771255474,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2681914478301822
+ },
+ {
+  "device_id": "SV-0477",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5210069041081133,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2280511829842129
+ },
+ {
+  "device_id": "SV-0478",
+  "mode": "brush_hair_wrap",
+  "onset_day": 22,
+  "hard_failure_day": 47,
+  "severity_scale": 0.36941745185344604,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.34273430613247535
+ },
+ {
+  "device_id": "SV-0479",
+  "mode": "firmware_regression",
+  "onset_day": 28,
+  "hard_failure_day": null,
+  "severity_scale": 0.771187902921386,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.22169313050670367
+ },
+ {
+  "device_id": "SV-0480",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.49826450189485216,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.575201139882144
+ },
+ {
+  "device_id": "SV-0481",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7335388476873408,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.1899959149888518
+ },
+ {
+  "device_id": "SV-0482",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3364434272074199,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.15002855569136245
+ },
+ {
+  "device_id": "SV-0483",
+  "mode": "clogged_filter",
+  "onset_day": 29,
+  "hard_failure_day": 67,
+  "severity_scale": 0.3633970228700466,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3682073201987276
+ },
+ {
+  "device_id": "SV-0484",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5420973449482716,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3811597925798601
+ },
+ {
+  "device_id": "SV-0485",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0675433243357813,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.19554686818072137
+ },
+ {
+  "device_id": "SV-0486",
+  "mode": "brush_hair_wrap",
+  "onset_day": 22,
+  "hard_failure_day": 50,
+  "severity_scale": 0.6660876563401447,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7567083795145194
+ },
+ {
+  "device_id": "SV-0487",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.601683950228357,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.6042073314294247
+ },
+ {
+  "device_id": "SV-0488",
+  "mode": "firmware_regression",
+  "onset_day": 38,
+  "hard_failure_day": null,
+  "severity_scale": 0.4035207307285294,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.505782170982835
+ },
+ {
+  "device_id": "SV-0489",
+  "mode": "brush_hair_wrap",
+  "onset_day": 24,
+  "hard_failure_day": 62,
+  "severity_scale": 0.5825159938821702,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.20731380638188848
+ },
+ {
+  "device_id": "SV-0490",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.47515088905886227,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3606122457506043
+ },
+ {
+  "device_id": "SV-0491",
+  "mode": "firmware_regression",
+  "onset_day": 28,
+  "hard_failure_day": null,
+  "severity_scale": 0.7620984855889774,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.43916335658142247
+ },
+ {
+  "device_id": "SV-0492",
+  "mode": "wheel_wear",
+  "onset_day": 44,
+  "hard_failure_day": 79,
+  "severity_scale": 0.7832008675856335,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4010810104960318
+ },
+ {
+  "device_id": "SV-0493",
+  "mode": "battery_degradation",
+  "onset_day": 27,
+  "hard_failure_day": 63,
+  "severity_scale": 0.6842991485902572,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.287898997230138
+ },
+ {
+  "device_id": "SV-0494",
+  "mode": "battery_degradation",
+  "onset_day": 23,
+  "hard_failure_day": 58,
+  "severity_scale": 0.4046231272083328,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.37539708064834887
+ },
+ {
+  "device_id": "SV-0495",
+  "mode": "battery_degradation",
+  "onset_day": 23,
+  "hard_failure_day": 43,
+  "severity_scale": 1.1355903460095649,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4321657157110377
+ },
+ {
+  "device_id": "SV-0496",
+  "mode": "clogged_filter",
+  "onset_day": 15,
+  "hard_failure_day": 48,
+  "severity_scale": 1.0236343422797078,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.42714727158749616
+ },
+ {
+  "device_id": "SV-0497",
+  "mode": "brush_hair_wrap",
+  "onset_day": 45,
+  "hard_failure_day": 83,
+  "severity_scale": 0.684478560878297,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.061532954911038606
+ },
+ {
+  "device_id": "SV-0498",
+  "mode": "brush_hair_wrap",
+  "onset_day": 34,
+  "hard_failure_day": 64,
+  "severity_scale": 0.535242394860446,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.43186926197122977
+ },
+ {
+  "device_id": "SV-0499",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4853247580814033,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.6490022350074408
+ },
+ {
+  "device_id": "SV-0500",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0164561814645057,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3242237162796571
+ },
+ {
+  "device_id": "SV-0501",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7372909653602212,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.09238063212049043
+ },
+ {
+  "device_id": "SV-0502",
+  "mode": "brush_hair_wrap",
+  "onset_day": 34,
+  "hard_failure_day": 73,
+  "severity_scale": 1.1728972345675397,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3303243905513024
+ },
+ {
+  "device_id": "SV-0503",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.32950514772212836,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.04404080169927827
+ },
+ {
+  "device_id": "SV-0504",
+  "mode": "firmware_regression",
+  "onset_day": 26,
+  "hard_failure_day": null,
+  "severity_scale": 1.0334910439046454,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.5525118313353318
+ },
+ {
+  "device_id": "SV-0505",
+  "mode": "brush_hair_wrap",
+  "onset_day": 26,
+  "hard_failure_day": 63,
+  "severity_scale": 0.9739183733796389,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3614838827379683
+ },
+ {
+  "device_id": "SV-0506",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7055243830095709,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.20967242836672095
+ },
+ {
+  "device_id": "SV-0507",
+  "mode": "firmware_regression",
+  "onset_day": 20,
+  "hard_failure_day": null,
+  "severity_scale": 0.8611227255041497,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.8447813079282798
+ },
+ {
+  "device_id": "SV-0508",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5693409502998424,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.34402517679984307
+ },
+ {
+  "device_id": "SV-0509",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0227222090825938,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3854236498024914
+ },
+ {
+  "device_id": "SV-0510",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7453545122120874,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.10619684074305441
+ },
+ {
+  "device_id": "SV-0511",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6186999361431684,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3222525233873379
+ },
+ {
+  "device_id": "SV-0512",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0896026915138166,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.4828514821169426
+ },
+ {
+  "device_id": "SV-0513",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5515016035965422,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.36952420687290877
+ },
+ {
+  "device_id": "SV-0514",
+  "mode": "firmware_regression",
+  "onset_day": 33,
+  "hard_failure_day": null,
+  "severity_scale": 0.7977271668708457,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.3907350088690604
+ },
+ {
+  "device_id": "SV-0515",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.37317071495532717,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.31778737103755167
+ },
+ {
+  "device_id": "SV-0516",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9801035470721953,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4252731693181591
+ },
+ {
+  "device_id": "SV-0517",
+  "mode": "battery_degradation",
+  "onset_day": 25,
+  "hard_failure_day": 51,
+  "severity_scale": 0.4454984433908207,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4543606163263357
+ },
+ {
+  "device_id": "SV-0518",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6567703502412128,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.4129778819021802
+ },
+ {
+  "device_id": "SV-0519",
+  "mode": "firmware_regression",
+  "onset_day": 25,
+  "hard_failure_day": null,
+  "severity_scale": 0.4209492573073424,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.13957618220017146
+ },
+ {
+  "device_id": "SV-0520",
+  "mode": "wheel_wear",
+  "onset_day": 22,
+  "hard_failure_day": 44,
+  "severity_scale": 0.5977227898007405,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2912391595782865
+ },
+ {
+  "device_id": "SV-0521",
+  "mode": "firmware_regression",
+  "onset_day": 34,
+  "hard_failure_day": null,
+  "severity_scale": 0.6272688670381956,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.20164174221720266
+ },
+ {
+  "device_id": "SV-0522",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7082071000852733,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5614578283380737
+ },
+ {
+  "device_id": "SV-0523",
+  "mode": "brush_hair_wrap",
+  "onset_day": 34,
+  "hard_failure_day": 58,
+  "severity_scale": 0.8067034794162224,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.48432805498114695
+ },
+ {
+  "device_id": "SV-0524",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0497613514519188,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.20974026204469126
+ },
+ {
+  "device_id": "SV-0525",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.089838631552021,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.04943171587552308
+ },
+ {
+  "device_id": "SV-0526",
+  "mode": "brush_hair_wrap",
+  "onset_day": 40,
+  "hard_failure_day": 71,
+  "severity_scale": 0.8708879743595833,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.25131410814245175
+ },
+ {
+  "device_id": "SV-0527",
+  "mode": "clogged_filter",
+  "onset_day": 47,
+  "hard_failure_day": 73,
+  "severity_scale": 0.38650402690108887,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3120717834813846
+ },
+ {
+  "device_id": "SV-0528",
+  "mode": "battery_degradation",
+  "onset_day": 28,
+  "hard_failure_day": 59,
+  "severity_scale": 0.7945641811169807,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5426909214679181
+ },
+ {
+  "device_id": "SV-0529",
+  "mode": "firmware_regression",
+  "onset_day": 35,
+  "hard_failure_day": null,
+  "severity_scale": 0.30484781490832696,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.7894863762779262
+ },
+ {
+  "device_id": "SV-0530",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9199269914458211,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3647091881567912
+ },
+ {
+  "device_id": "SV-0531",
+  "mode": "firmware_regression",
+  "onset_day": 29,
+  "hard_failure_day": null,
+  "severity_scale": 0.6762250836998829,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.05542030650382791
+ },
+ {
+  "device_id": "SV-0532",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5788727443473226,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.6905406475699915
+ },
+ {
+  "device_id": "SV-0533",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6668400998893085,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.35348724639115814
+ },
+ {
+  "device_id": "SV-0534",
+  "mode": "battery_degradation",
+  "onset_day": 25,
+  "hard_failure_day": 46,
+  "severity_scale": 1.063458815431713,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.21029736817711384
+ },
+ {
+  "device_id": "SV-0535",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.44321773695781735,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.43617952546917
+ },
+ {
+  "device_id": "SV-0536",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6078726810279597,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6838792371121624
+ },
+ {
+  "device_id": "SV-0537",
+  "mode": "wheel_wear",
+  "onset_day": 48,
+  "hard_failure_day": 77,
+  "severity_scale": 1.1557583035016288,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5409852992976244
+ },
+ {
+  "device_id": "SV-0538",
+  "mode": "clogged_filter",
+  "onset_day": 20,
+  "hard_failure_day": 43,
+  "severity_scale": 0.794668178262486,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.26461097087591917
+ },
+ {
+  "device_id": "SV-0539",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7346370936458231,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.483393415913042
+ },
+ {
+  "device_id": "SV-0540",
+  "mode": "clogged_filter",
+  "onset_day": 38,
+  "hard_failure_day": 64,
+  "severity_scale": 1.1964275905099007,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6717099171627512
+ },
+ {
+  "device_id": "SV-0541",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.495332967014395,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.60513008518713
+ },
+ {
+  "device_id": "SV-0542",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.41429517567864027,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.34305272615734406
+ },
+ {
+  "device_id": "SV-0543",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7132334674073165,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2295192340381385
+ },
+ {
+  "device_id": "SV-0544",
+  "mode": "battery_degradation",
+  "onset_day": 39,
+  "hard_failure_day": 62,
+  "severity_scale": 0.9899569659609068,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3890760049868623
+ },
+ {
+  "device_id": "SV-0545",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6233923721722239,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3503375299728735
+ },
+ {
+  "device_id": "SV-0546",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5885508893345777,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3199215549491056
+ },
+ {
+  "device_id": "SV-0547",
+  "mode": "clogged_filter",
+  "onset_day": 33,
+  "hard_failure_day": 72,
+  "severity_scale": 0.6477335701792095,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.8101277413292398
+ },
+ {
+  "device_id": "SV-0548",
+  "mode": "clogged_filter",
+  "onset_day": 25,
+  "hard_failure_day": 55,
+  "severity_scale": 0.6241017686051502,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.08507048976741616
+ },
+ {
+  "device_id": "SV-0549",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4393737290253187,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.5803413331480225
+ },
+ {
+  "device_id": "SV-0550",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8411758779453119,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7634386162715733
+ },
+ {
+  "device_id": "SV-0551",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4027435713916063,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5114480986686116
+ },
+ {
+  "device_id": "SV-0552",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8128201401335476,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.5565076865812868
+ },
+ {
+  "device_id": "SV-0553",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7491122990832212,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2999758585452266
+ },
+ {
+  "device_id": "SV-0554",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8983886011019262,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.6975084087967155
+ },
+ {
+  "device_id": "SV-0555",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0606275241660084,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.17078464054526266
+ },
+ {
+  "device_id": "SV-0556",
+  "mode": "firmware_regression",
+  "onset_day": 22,
+  "hard_failure_day": null,
+  "severity_scale": 1.066500733001473,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.19381946442739575
+ },
+ {
+  "device_id": "SV-0557",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.7887180956830726,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.24589345148832734
+ },
+ {
+  "device_id": "SV-0558",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.575932381142029,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5800618628211444
+ },
+ {
+  "device_id": "SV-0559",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0761148060573034,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.4331181148412535
+ },
+ {
+  "device_id": "SV-0560",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8130925715597157,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7318787861893954
+ },
+ {
+  "device_id": "SV-0561",
+  "mode": "battery_degradation",
+  "onset_day": 37,
+  "hard_failure_day": 61,
+  "severity_scale": 0.6260378965932194,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5132826962562269
+ },
+ {
+  "device_id": "SV-0562",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5801771840105294,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3342116652867707
+ },
+ {
+  "device_id": "SV-0563",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5844781620906911,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.43098106275329445
+ },
+ {
+  "device_id": "SV-0564",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.128137859612089,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.6042786707451007
+ },
+ {
+  "device_id": "SV-0565",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8090716667337222,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4437232466862556
+ },
+ {
+  "device_id": "SV-0566",
+  "mode": "firmware_regression",
+  "onset_day": 37,
+  "hard_failure_day": null,
+  "severity_scale": 1.09197992973609,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.6129082470023868
+ },
+ {
+  "device_id": "SV-0567",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.3085288795684816,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.3170124090600254
+ },
+ {
+  "device_id": "SV-0568",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6087203626001806,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2682770949195057
+ },
+ {
+  "device_id": "SV-0569",
+  "mode": "clogged_filter",
+  "onset_day": 47,
+  "hard_failure_day": 83,
+  "severity_scale": 0.7262131767350605,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2970531494777092
+ },
+ {
+  "device_id": "SV-0570",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4619759008823252,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.670957865865194
+ },
+ {
+  "device_id": "SV-0571",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0760826551044054,
+  "bad_ota": true,
+  "pets": true,
+  "carpet_frac": 0.7208342424818115
+ },
+ {
+  "device_id": "SV-0572",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.0705378128038436,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.20860233584484764
+ },
+ {
+  "device_id": "SV-0573",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1468427999752244,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2895294292361747
+ },
+ {
+  "device_id": "SV-0574",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.605206816057657,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.7858893978779002
+ },
+ {
+  "device_id": "SV-0575",
+  "mode": "wheel_wear",
+  "onset_day": 22,
+  "hard_failure_day": 56,
+  "severity_scale": 0.9734199675720024,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.042819234756631575
+ },
+ {
+  "device_id": "SV-0576",
+  "mode": "battery_degradation",
+  "onset_day": 29,
+  "hard_failure_day": 58,
+  "severity_scale": 0.36600573799862646,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5064011839781764
+ },
+ {
+  "device_id": "SV-0577",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.6901635974515733,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.11557286810629908
+ },
+ {
+  "device_id": "SV-0578",
+  "mode": "battery_degradation",
+  "onset_day": 21,
+  "hard_failure_day": 42,
+  "severity_scale": 0.634583707274869,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.2492287898731715
+ },
+ {
+  "device_id": "SV-0579",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5124988137326619,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3468440684527667
+ },
+ {
+  "device_id": "SV-0580",
+  "mode": "firmware_regression",
+  "onset_day": 30,
+  "hard_failure_day": null,
+  "severity_scale": 0.5526012360765832,
+  "bad_ota": true,
+  "pets": false,
+  "carpet_frac": 0.6761255655134774
+ },
+ {
+  "device_id": "SV-0581",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.5734846879808947,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.611297946137187
+ },
+ {
+  "device_id": "SV-0582",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1721567341395502,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.49697319574963356
+ },
+ {
+  "device_id": "SV-0583",
+  "mode": "battery_degradation",
+  "onset_day": 28,
+  "hard_failure_day": 48,
+  "severity_scale": 0.44433718997148314,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.48485264039645853
+ },
+ {
+  "device_id": "SV-0584",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 1.1110648201140216,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.20384835162535098
+ },
+ {
+  "device_id": "SV-0585",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4183525208179811,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.26744459577828505
+ },
+ {
+  "device_id": "SV-0586",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.4660787669478896,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.7922911081153126
+ },
+ {
+  "device_id": "SV-0587",
+  "mode": "battery_degradation",
+  "onset_day": 35,
+  "hard_failure_day": 73,
+  "severity_scale": 0.7358382106126771,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.44943639563852805
+ },
+ {
+  "device_id": "SV-0588",
+  "mode": "clogged_filter",
+  "onset_day": 46,
+  "hard_failure_day": 85,
+  "severity_scale": 0.6844752826265295,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5079203489346638
+ },
+ {
+  "device_id": "SV-0589",
+  "mode": "clogged_filter",
+  "onset_day": 32,
+  "hard_failure_day": 68,
+  "severity_scale": 0.8082529954890376,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3295123041226457
+ },
+ {
+  "device_id": "SV-0590",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8499692681914738,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4884775225117523
+ },
+ {
+  "device_id": "SV-0591",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.8256742939939024,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.21518311155393174
+ },
+ {
+  "device_id": "SV-0592",
+  "mode": "healthy",
+  "onset_day": null,
+  "hard_failure_day": null,
+  "severity_scale": 0.9685470200869971,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.5301787948583296
+ },
+ {
+  "device_id": "SV-0593",
+  "mode": "battery_degradation",
+  "onset_day": 27,
+  "hard_failure_day": 51,
+  "severity_scale": 1.0801444901967294,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.29479378852975197
+ },
+ {
+  "device_id": "SV-0594",
+  "mode": "brush_hair_wrap",
+  "onset_day": 24,
+  "hard_failure_day": 61,
+  "severity_scale": 0.4433565577188359,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.4189914432217336
+ },
+ {
+  "device_id": "SV-0595",
+  "mode": "wheel_wear",
+  "onset_day": 31,
+  "hard_failure_day": 55,
+  "severity_scale": 0.9332291530264191,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.29375475043166327
+ },
+ {
+  "device_id": "SV-0596",
+  "mode": "wheel_wear",
+  "onset_day": 23,
+  "hard_failure_day": 62,
+  "severity_scale": 1.1314369594447296,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3283508335395673
+ },
+ {
+  "device_id": "SV-0597",
+  "mode": "clogged_filter",
+  "onset_day": 36,
+  "hard_failure_day": 58,
+  "severity_scale": 0.9950620575214979,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.29416664915614105
+ },
+ {
+  "device_id": "SV-0598",
+  "mode": "battery_degradation",
+  "onset_day": 44,
+  "hard_failure_day": 73,
+  "severity_scale": 0.7708244037732465,
+  "bad_ota": false,
+  "pets": true,
+  "carpet_frac": 0.3488318780670148
+ },
+ {
+  "device_id": "SV-0599",
+  "mode": "brush_hair_wrap",
+  "onset_day": 44,
+  "hard_failure_day": 66,
+  "severity_scale": 0.6773712021993765,
+  "bad_ota": false,
+  "pets": false,
+  "carpet_frac": 0.33570886995190874
+ }
+]

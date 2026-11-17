@@ -1,0 +1,407 @@
+{
+ "protocol": {
+  "split": "by device, stratified by injected mode, 60/40, seed 0; no device in both sets",
+  "train_devices": 360,
+  "test_devices": 240,
+  "train_modes": {
+   "healthy": 208,
+   "firmware_regression": 36,
+   "clogged_filter": 29,
+   "brush_hair_wrap": 29,
+   "battery_degradation": 29,
+   "wheel_wear": 29
+  },
+  "test_modes": {
+   "healthy": 140,
+   "firmware_regression": 24,
+   "brush_hair_wrap": 19,
+   "clogged_filter": 19,
+   "battery_degradation": 19,
+   "wheel_wear": 19
+  },
+  "feature_rows": 42250,
+  "debounce_days": 3,
+  "threshold_rule": "per detector, smallest threshold with <=5% of healthy TRAIN devices alerting (GB: on out-of-fold scores); then frozen for the test devices",
+  "verdict_rule": "mode named from all rows from the first alert day to the end of the device's data",
+  "hard_failure_codes_in_features": false
+ },
+ "thresholds": {
+  "rule_tau": 0.9989854925433702,
+  "iforest_tau": 0.4506190475982743,
+  "gb_tau": 0.972977166863936
+ },
+ "rule_baseline": {
+  "per_mode": {
+   "healthy": {
+    "precision": 0.8571,
+    "recall": 0.9429,
+    "f1": 0.898,
+    "support": 140
+   },
+   "brush_hair_wrap": {
+    "precision": 0.9375,
+    "recall": 0.7895,
+    "f1": 0.8571,
+    "support": 19
+   },
+   "clogged_filter": {
+    "precision": 0.9,
+    "recall": 0.4737,
+    "f1": 0.6207,
+    "support": 19
+   },
+   "battery_degradation": {
+    "precision": 0.7308,
+    "recall": 1.0,
+    "f1": 0.8444,
+    "support": 19
+   },
+   "wheel_wear": {
+    "precision": 1.0,
+    "recall": 0.7368,
+    "f1": 0.8485,
+    "support": 19
+   },
+   "firmware_regression": {
+    "precision": 0.95,
+    "recall": 0.7917,
+    "f1": 0.8636,
+    "support": 24
+   }
+  },
+  "macro_f1_all_classes": 0.822,
+  "macro_f1_fault_modes": 0.8069,
+  "confusion_matrix": {
+   "labels_true_rows_pred_cols": [
+    "healthy",
+    "brush_hair_wrap",
+    "clogged_filter",
+    "battery_degradation",
+    "wheel_wear",
+    "firmware_regression"
+   ],
+   "matrix": [
+    [
+     132,
+     0,
+     1,
+     6,
+     0,
+     1
+    ],
+    [
+     4,
+     15,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     10,
+     0,
+     9,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     19,
+     0,
+     0
+    ],
+    [
+     4,
+     1,
+     0,
+     0,
+     14,
+     0
+    ],
+    [
+     4,
+     0,
+     0,
+     1,
+     0,
+     19
+    ]
+   ]
+  },
+  "accuracy": 0.8667,
+  "detection": {
+   "any_fault_precision": 0.907,
+   "any_fault_recall": 0.78,
+   "healthy_devices_alerted": 8,
+   "healthy_devices": 140,
+   "healthy_false_alarm_rate": 0.0571,
+   "recall_by_mode": {
+    "brush_hair_wrap": 0.7895,
+    "clogged_filter": 0.4737,
+    "battery_degradation": 1.0,
+    "wheel_wear": 0.7895,
+    "firmware_regression": 0.8333
+   }
+  },
+  "lead_time": {
+   "brush_hair_wrap": {
+    "devices": 19,
+    "alerted": 15,
+    "alerted_before_hard_failure": 15,
+    "lead_days_median": 9.0,
+    "lead_days_p90": 21.199999999999996
+   },
+   "clogged_filter": {
+    "devices": 19,
+    "alerted": 9,
+    "alerted_before_hard_failure": 9,
+    "lead_days_median": 4.0,
+    "lead_days_p90": 7.6000000000000005
+   },
+   "battery_degradation": {
+    "devices": 19,
+    "alerted": 19,
+    "alerted_before_hard_failure": 19,
+    "lead_days_median": 11.0,
+    "lead_days_p90": 21.0
+   },
+   "wheel_wear": {
+    "devices": 19,
+    "alerted": 15,
+    "alerted_before_hard_failure": 15,
+    "lead_days_median": 5.0,
+    "lead_days_p90": 18.799999999999997
+   },
+   "all_degrading": {
+    "alerted_before_hard_failure": 58,
+    "lead_days_median": 9.0,
+    "lead_days_p90": 21.0
+   },
+   "firmware_regression_days_from_ota_to_alert": {
+    "devices": 24,
+    "alerted": 20,
+    "median": 28.0
+   }
+  }
+ },
+ "isolation_forest_unsupervised": {
+  "detection": {
+   "any_fault_precision": 0.8571,
+   "any_fault_recall": 0.48,
+   "healthy_devices_alerted": 8,
+   "healthy_devices": 140,
+   "healthy_false_alarm_rate": 0.0571,
+   "recall_by_mode": {
+    "brush_hair_wrap": 0.3684,
+    "clogged_filter": 0.3684,
+    "battery_degradation": 0.9474,
+    "wheel_wear": 0.8421,
+    "firmware_regression": 0.0
+   }
+  },
+  "lead_time": {
+   "brush_hair_wrap": {
+    "devices": 19,
+    "alerted": 7,
+    "alerted_before_hard_failure": 6,
+    "lead_days_median": 5.0,
+    "lead_days_p90": 8.0
+   },
+   "clogged_filter": {
+    "devices": 19,
+    "alerted": 7,
+    "alerted_before_hard_failure": 5,
+    "lead_days_median": 4.0,
+    "lead_days_p90": 8.8
+   },
+   "battery_degradation": {
+    "devices": 19,
+    "alerted": 18,
+    "alerted_before_hard_failure": 18,
+    "lead_days_median": 13.0,
+    "lead_days_p90": 20.3
+   },
+   "wheel_wear": {
+    "devices": 19,
+    "alerted": 16,
+    "alerted_before_hard_failure": 16,
+    "lead_days_median": 11.5,
+    "lead_days_p90": 15.5
+   },
+   "all_degrading": {
+    "alerted_before_hard_failure": 45,
+    "lead_days_median": 11.0,
+    "lead_days_p90": 17.0
+   },
+   "firmware_regression_days_from_ota_to_alert": {
+    "devices": 24,
+    "alerted": 0,
+    "median": null
+   }
+  }
+ },
+ "gradient_boosting": {
+  "per_mode": {
+   "healthy": {
+    "precision": 0.964,
+    "recall": 0.9571,
+    "f1": 0.9606,
+    "support": 140
+   },
+   "brush_hair_wrap": {
+    "precision": 0.9474,
+    "recall": 0.9474,
+    "f1": 0.9474,
+    "support": 19
+   },
+   "clogged_filter": {
+    "precision": 0.8333,
+    "recall": 0.7895,
+    "f1": 0.8108,
+    "support": 19
+   },
+   "battery_degradation": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 19
+   },
+   "wheel_wear": {
+    "precision": 0.95,
+    "recall": 1.0,
+    "f1": 0.9744,
+    "support": 19
+   },
+   "firmware_regression": {
+    "precision": 0.96,
+    "recall": 1.0,
+    "f1": 0.9796,
+    "support": 24
+   }
+  },
+  "macro_f1_all_classes": 0.9455,
+  "macro_f1_fault_modes": 0.9424,
+  "confusion_matrix": {
+   "labels_true_rows_pred_cols": [
+    "healthy",
+    "brush_hair_wrap",
+    "clogged_filter",
+    "battery_degradation",
+    "wheel_wear",
+    "firmware_regression"
+   ],
+   "matrix": [
+    [
+     134,
+     1,
+     3,
+     0,
+     1,
+     1
+    ],
+    [
+     1,
+     18,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     4,
+     0,
+     15,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     19,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     19,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     24
+    ]
+   ]
+  },
+  "accuracy": 0.9542,
+  "detection": {
+   "any_fault_precision": 0.9406,
+   "any_fault_recall": 0.95,
+   "healthy_devices_alerted": 6,
+   "healthy_devices": 140,
+   "healthy_false_alarm_rate": 0.0429,
+   "recall_by_mode": {
+    "brush_hair_wrap": 0.9474,
+    "clogged_filter": 0.7895,
+    "battery_degradation": 1.0,
+    "wheel_wear": 1.0,
+    "firmware_regression": 1.0
+   }
+  },
+  "mode_correct_on_first_alert_day": {
+   "devices": 95,
+   "fraction": 1.0
+  },
+  "lead_time": {
+   "brush_hair_wrap": {
+    "devices": 19,
+    "alerted": 18,
+    "alerted_before_hard_failure": 18,
+    "lead_days_median": 13.5,
+    "lead_days_p90": 17.0
+   },
+   "clogged_filter": {
+    "devices": 19,
+    "alerted": 15,
+    "alerted_before_hard_failure": 13,
+    "lead_days_median": 8.0,
+    "lead_days_p90": 12.600000000000001
+   },
+   "battery_degradation": {
+    "devices": 19,
+    "alerted": 19,
+    "alerted_before_hard_failure": 19,
+    "lead_days_median": 19.0,
+    "lead_days_p90": 24.2
+   },
+   "wheel_wear": {
+    "devices": 19,
+    "alerted": 19,
+    "alerted_before_hard_failure": 19,
+    "lead_days_median": 16.0,
+    "lead_days_p90": 24.0
+   },
+   "all_degrading": {
+    "alerted_before_hard_failure": 69,
+    "lead_days_median": 15.0,
+    "lead_days_p90": 23.0
+   },
+   "firmware_regression_days_from_ota_to_alert": {
+    "devices": 24,
+    "alerted": 24,
+    "median": 14.0
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "by_firmware": [
+  {
+   "firmware": "2.2.4",
+   "runs": 9989,
+   "devices": 344,
+   "runs_with_reboot": 45,
+   "reboots_per_100_runs": 0.45,
+   "ci95_low_per_100": 0.337,
+   "ci95_high_per_100": 0.602
+  },
+  {
+   "firmware": "2.3.0",
+   "runs": 27323,
+   "devices": 530,
+   "runs_with_reboot": 94,
+   "reboots_per_100_runs": 0.344,
+   "ci95_low_per_100": 0.281,
+   "ci95_high_per_100": 0.421
+  },
+  {
+   "firmware": "2.3.1",
+   "runs": 5534,
+   "devices": 100,
+   "runs_with_reboot": 423,
+   "reboots_per_100_runs": 7.644,
+   "ci95_low_per_100": 6.973,
+   "ci95_high_per_100": 8.373
+  }
+ ],
+ "highest_rate_firmware": "2.3.1",
+ "rate_ratio_vs_all_other_versions": 20.52,
+ "source": "telemetry only; ground truth not used"
+}

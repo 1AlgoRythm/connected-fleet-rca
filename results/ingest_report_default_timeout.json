@@ -1,0 +1,38 @@
+{
+ "n_devices": 600,
+ "horizon_days": 90,
+ "seed": 20261116,
+ "simulation_seconds": 1.18,
+ "messages_generated": 42846,
+ "messages_published": 42846,
+ "puback_received": 42846,
+ "bad_payloads_injected": 20,
+ "valid_payloads": 42826,
+ "publish_seconds": 4.246,
+ "publisher_clients": 4,
+ "ingest_received": 42019,
+ "ingest_rejected": 20,
+ "reject_reasons": {
+  "bad_value": 10,
+  "missing": 5,
+  "topic_device_mismatch": 5
+ },
+ "ingest_duplicates_ignored": 0,
+ "rows_stored": 41999,
+ "distinct_rows_stored": 41999,
+ "first_pass": {
+  "received": 42019,
+  "rejected": 20,
+  "stored": 41999,
+  "valid_lost_in_transit": 827,
+  "loss_rate": 0.019311
+ },
+ "gapfill_rounds": [],
+ "final_missing_after_gapfill": 847,
+ "first_pass_drained": false,
+ "first_pass_end_to_end_seconds": 6.875,
+ "first_pass_throughput_msgs_per_s": 6232.1,
+ "broker": "amqtt (pure Python, in-process child) on 127.0.0.1",
+ "qos": 1,
+ "broker_qos1_puback_timeout_s": 5.0
+}

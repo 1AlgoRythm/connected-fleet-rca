@@ -1,0 +1,43 @@
+{
+ "flagged_devices": 250,
+ "devices": 600,
+ "predicted": [
+  {
+   "mode": "firmware_regression",
+   "devices": 63,
+   "share": 0.252,
+   "cumulative_share": 0.252
+  },
+  {
+   "mode": "brush_hair_wrap",
+   "devices": 49,
+   "share": 0.196,
+   "cumulative_share": 0.448
+  },
+  {
+   "mode": "wheel_wear",
+   "devices": 48,
+   "share": 0.192,
+   "cumulative_share": 0.64
+  },
+  {
+   "mode": "battery_degradation",
+   "devices": 48,
+   "share": 0.192,
+   "cumulative_share": 0.832
+  },
+  {
+   "mode": "clogged_filter",
+   "devices": 42,
+   "share": 0.168,
+   "cumulative_share": 1.0
+  }
+ ],
+ "injected_truth_devices": {
+  "firmware_regression": 60,
+  "brush_hair_wrap": 48,
+  "clogged_filter": 48,
+  "battery_degradation": 48,
+  "wheel_wear": 48
+ }
+}

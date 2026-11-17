@@ -1,0 +1,177 @@
+{
+ "folds": [
+  {
+   "fold": 0,
+   "test_devices": 120,
+   "rule": {
+    "macro_f1_fault_modes": 0.8274,
+    "any_fault_recall": 0.74,
+    "healthy_false_alarm_rate": 0.0143,
+    "lead_median": 8.5
+   },
+   "iforest": {
+    "macro_f1_fault_modes": null,
+    "any_fault_recall": 0.48,
+    "healthy_false_alarm_rate": 0.0429,
+    "lead_median": 10.0
+   },
+   "gb": {
+    "macro_f1_fault_modes": 0.975,
+    "any_fault_recall": 0.96,
+    "healthy_false_alarm_rate": 0.0,
+    "lead_median": 14.0
+   }
+  },
+  {
+   "fold": 1,
+   "test_devices": 120,
+   "rule": {
+    "macro_f1_fault_modes": 0.7519,
+    "any_fault_recall": 0.72,
+    "healthy_false_alarm_rate": 0.1,
+    "lead_median": 8.0
+   },
+   "iforest": {
+    "macro_f1_fault_modes": null,
+    "any_fault_recall": 0.46,
+    "healthy_false_alarm_rate": 0.0429,
+    "lead_median": 12.0
+   },
+   "gb": {
+    "macro_f1_fault_modes": 0.9448,
+    "any_fault_recall": 0.92,
+    "healthy_false_alarm_rate": 0.0143,
+    "lead_median": 15.0
+   }
+  },
+  {
+   "fold": 2,
+   "test_devices": 120,
+   "rule": {
+    "macro_f1_fault_modes": 0.7983,
+    "any_fault_recall": 0.88,
+    "healthy_false_alarm_rate": 0.1571,
+    "lead_median": 6.0
+   },
+   "iforest": {
+    "macro_f1_fault_modes": null,
+    "any_fault_recall": 0.48,
+    "healthy_false_alarm_rate": 0.0143,
+    "lead_median": 9.0
+   },
+   "gb": {
+    "macro_f1_fault_modes": 0.9351,
+    "any_fault_recall": 0.98,
+    "healthy_false_alarm_rate": 0.0857,
+    "lead_median": 16.0
+   }
+  },
+  {
+   "fold": 3,
+   "test_devices": 120,
+   "rule": {
+    "macro_f1_fault_modes": 0.8788,
+    "any_fault_recall": 0.8039,
+    "healthy_false_alarm_rate": 0.0,
+    "lead_median": 11.0
+   },
+   "iforest": {
+    "macro_f1_fault_modes": null,
+    "any_fault_recall": 0.5098,
+    "healthy_false_alarm_rate": 0.0725,
+    "lead_median": 10.0
+   },
+   "gb": {
+    "macro_f1_fault_modes": 0.9815,
+    "any_fault_recall": 0.9804,
+    "healthy_false_alarm_rate": 0.0145,
+    "lead_median": 15.0
+   }
+  },
+  {
+   "fold": 4,
+   "test_devices": 120,
+   "rule": {
+    "macro_f1_fault_modes": 0.853,
+    "any_fault_recall": 0.7647,
+    "healthy_false_alarm_rate": 0.0145,
+    "lead_median": 5.0
+   },
+   "iforest": {
+    "macro_f1_fault_modes": null,
+    "any_fault_recall": 0.4118,
+    "healthy_false_alarm_rate": 0.0145,
+    "lead_median": 11.0
+   },
+   "gb": {
+    "macro_f1_fault_modes": 0.9253,
+    "any_fault_recall": 0.9216,
+    "healthy_false_alarm_rate": 0.029,
+    "lead_median": 14.0
+   }
+  }
+ ],
+ "summary": {
+  "rule": {
+   "macro_f1_fault_modes": {
+    "mean": 0.8219,
+    "std": 0.044,
+    "n_folds": 5
+   },
+   "any_fault_recall": {
+    "mean": 0.7817,
+    "std": 0.0566,
+    "n_folds": 5
+   },
+   "healthy_false_alarm_rate": {
+    "mean": 0.0572,
+    "std": 0.0612,
+    "n_folds": 5
+   },
+   "lead_median": {
+    "mean": 7.7,
+    "std": 2.0881,
+    "n_folds": 5
+   }
+  },
+  "iforest": {
+   "any_fault_recall": {
+    "mean": 0.4683,
+    "std": 0.0324,
+    "n_folds": 5
+   },
+   "healthy_false_alarm_rate": {
+    "mean": 0.0374,
+    "std": 0.0217,
+    "n_folds": 5
+   },
+   "lead_median": {
+    "mean": 10.4,
+    "std": 1.0198,
+    "n_folds": 5
+   }
+  },
+  "gb": {
+   "macro_f1_fault_modes": {
+    "mean": 0.9523,
+    "std": 0.0221,
+    "n_folds": 5
+   },
+   "any_fault_recall": {
+    "mean": 0.9524,
+    "std": 0.0268,
+    "n_folds": 5
+   },
+   "healthy_false_alarm_rate": {
+    "mean": 0.0287,
+    "std": 0.0299,
+    "n_folds": 5
+   },
+   "lead_median": {
+    "mean": 14.8,
+    "std": 0.7483,
+    "n_folds": 5
+   }
+  }
+ }
+}

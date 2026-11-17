@@ -1,0 +1,7452 @@
+[
+ {
+  "device_id": "SV-0000",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0001",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0004",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0006",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 60,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9908
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0006
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0015",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0039",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0042",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0043",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0049",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0050",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0052",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0057",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0069",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 27,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.6486
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0070",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0086",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 24,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9971
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0094",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0097",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0105",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0108",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0109",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9815
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0721
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0117",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 59,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.4973
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0219
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0016
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0121",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0126",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 23,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9964
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0128",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.3671
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0038
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0007
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0129",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0134",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0137",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 24,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9738
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0006
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0144",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 23,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9922
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2553
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0145",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0149",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 40,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9934
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.615
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0151",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 46,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.5327
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0051
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0155",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0157",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 47,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9915
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0165",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0167",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0175",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0178",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 42,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9131
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0006
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0181",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 58,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.7747
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0182",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9927
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.3989
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0191",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 30,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9925
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0206",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0209",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0213",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0227",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0228",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0231",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 44,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9934
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2057
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0233",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0247",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0256",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9836
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0019
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0258",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 22,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.998
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0259",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 55,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9922
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0263",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0266",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0281",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0290",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0295",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 74,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9941
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0009
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0299",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0302",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 46,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.6857
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0324",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0329",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 55,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9971
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0337",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0345",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0346",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0351",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 48,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9685
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0357",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0361",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0364",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0367",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0368",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0371",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 57,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9964
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0007
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0004
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0378",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0382",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 56,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9958
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0387",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0388",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0389",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0393",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 29,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.996
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0623
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0394",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 53,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9915
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0398",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0399",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0401",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0402",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0403",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0406",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0417",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 61,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9987
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0421",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 27,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.999
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0427",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0432",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0434",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0435",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0446",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 33,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.6778
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0095
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0026
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0449",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.996
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0798
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0450",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 57,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9908
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0458",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 50,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.95
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0463",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0464",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0478",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 40,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9367
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0087
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0017
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0479",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 74,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9979
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.8658
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0489",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9963
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0009
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0005
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0491",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 48,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9963
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.562
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0009
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0496",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.5714
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0071
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0027
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0501",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0502",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 50,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9975
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0025
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0007
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0507",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 33,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9763
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0617
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0508",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0512",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0513",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0514",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9881
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.3181
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0517",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 34,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.8723
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0522",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0526",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 56,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.7902
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0535",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0536",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0540",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.7147
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.007
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0006
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0548",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 49,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.6132
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0044
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0556",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 25,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9925
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.3959
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0559",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0565",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0578",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 28,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9967
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0581",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0591",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0009",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0010",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0016",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 33,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9883
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.1074
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0019",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 25,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.997
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.078
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0020",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0023",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0024",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0025",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0031",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 56,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9966
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0035",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 47,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.985
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.085
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0040",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0044",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0046",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0054",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0059",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0060",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 45,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9898
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.716
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0062",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 56,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9892
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2945
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0065",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0067",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 40,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9943
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.16
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0076",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0077",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0083",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0085",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0090",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 53,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9994
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0014
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0092",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.8581
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0038
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0095",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 32,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.97
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0099",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 49,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.8136
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0103",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0113",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0118",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0130",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 43,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.992
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.9727
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0004
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0131",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 22,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9889
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.3148
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0034
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0139",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9831
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.6728
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0013
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0152",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 43,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.967
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0154",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 48,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9847
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0206
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0006
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0162",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9915
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0166",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0180",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0185",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 66,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9955
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0833
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0193",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 50,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9965
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0200",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 63,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9808
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0208",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0212",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9954
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0220",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0224",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 19,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9922
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0876
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0229",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 21,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9798
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0235",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0236",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0246",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0250",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0252",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 48,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9916
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0253",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0262",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 54,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9626
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0271",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 25,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9985
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0275",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0282",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 41,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9985
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0291",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 51,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.8433
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0199
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0092
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0293",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0294",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0296",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0301",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0305",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0313",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0315",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0319",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0323",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 46,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.6153
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0071
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0004
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0325",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 68,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9959
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0066
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0327",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0328",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0333",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 40,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9995
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0012
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0336",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0340",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9659
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0342",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0356",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0359",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 56,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.978
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0360",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0362",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0366",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0369",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0385",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 76,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9647
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0068
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0012
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0386",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0391",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0397",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0405",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 20,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9864
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.1383
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0411",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0420",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0430",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0439",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 72,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9932
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.6657
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0441",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 51,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9882
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.032
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0007
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0442",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 49,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9977
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0443",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0447",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0452",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 34,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9931
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0007
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0455",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0457",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 39,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9881
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0539
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0461",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 57,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9829
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0472",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0475",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0476",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 55,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9993
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0481",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0482",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0483",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0487",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0490",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0500",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0505",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 46,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9439
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0509",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0516",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0520",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 33,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.8616
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0009
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0539",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0552",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0555",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0558",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0570",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0571",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0572",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0576",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.998
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0007
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0588",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 79,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9917
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0347
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0005
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0590",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0593",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 23,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9995
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0012
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0007",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0008",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0017",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 64,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.997
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0015
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0014
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0021",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 66,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9696
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0027
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0026",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 53,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9994
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0030",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 37,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.7484
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0032",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 41,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9874
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0009
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0041",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 36,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9133
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0051
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0035
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0048",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0051",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 62,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9915
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.3663
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0068",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 34,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9611
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0072",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0075",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0079",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0098",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0100",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0104",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 27,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9959
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0956
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0110",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9975
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0112",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0115",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0120",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0132",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 59,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9944
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.5456
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0136",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 69,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9821
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0004
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0141",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0142",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0146",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 36,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9969
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0148",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0150",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 42,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9946
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0158",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0160",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9299
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0101
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0016
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0161",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 59,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9729
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0221
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0026
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0164",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 57,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9381
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0032
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0008
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0176",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 27,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9927
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0177",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 75,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9771
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0049
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0004
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0179",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0183",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 53,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.956
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0335
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0007
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0186",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 31,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9905
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0189",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 55,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.798
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0192",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 39,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9709
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0018
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0201",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0202",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 21,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9922
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.5892
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0205",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 44,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.8979
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0207",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0211",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0216",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 46,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.7447
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0217",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0221",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0225",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 36,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9458
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0234",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0237",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0238",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0241",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 37,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9657
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0243",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0245",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0249",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0251",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 51,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9938
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.1166
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0260",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0272",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0273",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 76,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9338
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0016
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0009
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0283",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 18,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9465
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0285",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0288",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 47,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9399
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0292",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0304",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 62,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.7945
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0310",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0312",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0320",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0321",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0322",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0334",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 20,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.8407
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0007
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0348",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0349",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0350",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0370",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 29,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9914
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0057
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0034
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0372",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0380",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 60,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9992
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0383",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0395",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 58,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.995
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.6319
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0404",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0408",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0410",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 54,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9331
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0424",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 61,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9855
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0016
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0008
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0425",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 41,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9493
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0023
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0431",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0436",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0437",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 40,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.6164
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0438",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 39,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9976
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.949
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0444",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0451",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.2748
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0460",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0462",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 42,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9124
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0098
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.002
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0465",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0468",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0469",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0471",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0480",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0488",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 41,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9891
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.8416
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0493",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9959
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0495",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 29,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9631
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0524",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 31,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.7979
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0192
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0153
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0525",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0529",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9934
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.4525
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0530",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0531",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 40,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9974
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2426
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0533",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0541",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0544",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 44,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.7734
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0546",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0551",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0553",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0560",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0563",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0566",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 45,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9793
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.8426
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0567",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0569",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 79,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9883
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0072
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0071
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0580",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 33,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.991
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0391
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0582",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0586",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0592",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0597",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 48,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9728
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0055
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0016
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0002",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0003",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 37,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.359
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0011",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0012",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 39,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.6401
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0255
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0089
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0013",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 48,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.7736
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0101
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0012
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0018",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0028",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 29,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9437
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0029",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0033",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0034",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0037",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 58,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.97
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0038",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0047",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 57,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.7604
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0019
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0019
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0064",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0073",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0074",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0081",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 61,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9855
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0082",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 63,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9977
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0087",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.8564
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0091",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 56,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9782
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0173
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0026
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0096",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 47,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9753
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0102",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 42,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9943
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0878
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0106",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0107",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0114",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 25,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9937
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.257
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0116",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9976
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0119",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0122",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0123",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 54,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9587
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0084
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0031
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0124",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0125",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 28,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9952
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2849
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0133",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0138",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 51,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9945
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0140",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 46,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9822
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0143",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.6596
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0147",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0156",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 48,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9573
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0082
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0009
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0159",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0163",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0169",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0170",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 54,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.8907
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0174",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 58,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.8543
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0094
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0009
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0184",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0187",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 34,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9424
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0188",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0190",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0198",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0214",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0215",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0218",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0219",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 63,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9988
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0222",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0223",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0239",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 39,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9858
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0242",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 37,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9917
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.4403
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0255",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 42,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9854
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0257",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0264",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0267",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 54,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9986
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0268",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0269",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 41,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9979
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2953
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0270",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 45,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9951
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2853
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0005
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0274",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 48,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9612
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0018
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0277",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 44,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9991
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.4891
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0279",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0280",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0284",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0287",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0289",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0297",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0298",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0300",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0303",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0309",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0311",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0316",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 41,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.428
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0326",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0330",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0331",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0338",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 44,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.3122
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0013
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0005
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0344",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0347",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0352",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 32,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9962
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.1458
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0354",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0365",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0376",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0377",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0392",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 47,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9775
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0119
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0011
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0396",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0409",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0415",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 31,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9987
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0286
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0419",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 50,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9977
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.5466
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0422",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0423",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0426",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9942
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.6222
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0445",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0459",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 62,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.7838
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0083
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0004
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0466",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0467",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0477",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0492",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 58,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9946
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0499",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 53,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9965
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.1892
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0032
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0503",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0510",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0521",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 40,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9978
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.0762
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0528",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9968
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0532",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0534",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 30,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9741
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0537",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 57,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9876
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0554",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0557",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0561",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 44,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.999
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0574",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0577",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0579",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0584",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0587",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 42,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9923
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0589",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 64,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9622
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0355
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0082
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0596",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9815
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0599",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 62,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9987
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0022
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0005",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0014",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0022",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 69,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9949
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.5119
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0027",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0036",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 56,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9989
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0045",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 55,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.8926
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0053",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 48,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9901
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0055",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 27,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9845
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0056",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 39,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9986
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0058",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 50,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9783
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0061",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 41,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9849
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.6899
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0063",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0066",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 39,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9932
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.575
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0071",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0078",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0080",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 62,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.998
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0084",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 37,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9931
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0015
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0006
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0088",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0089",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0093",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 26,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9866
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0101",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0111",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0127",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0135",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0153",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0168",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 42,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9467
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0171",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0172",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0173",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0194",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 55,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.6752
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.014
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.001
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0195",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 54,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9938
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2415
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0015
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0196",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0197",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 51,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9924
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2289
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0199",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0203",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0204",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9848
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0210",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9948
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0226",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0230",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0232",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0240",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0244",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0248",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0254",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0261",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 47,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9601
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0265",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0276",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0278",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0286",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 59,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.9348
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0491
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0006
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0306",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0307",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0308",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0314",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0317",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0318",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0332",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 57,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9298
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0335",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 32,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9879
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.1057
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0004
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0339",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 41,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.992
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.1318
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0341",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0343",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0353",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0355",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0358",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 55,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9952
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0363",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0373",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 58,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.9658
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0004
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0374",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 33,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9741
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0375",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0379",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0381",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0384",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0390",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 52,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9928
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.1632
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0400",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0407",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 33,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.992
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0412",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0413",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 38,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9931
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.7383
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0414",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0416",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0418",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0428",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0429",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0433",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 49,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9462
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0002
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0440",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0448",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 66,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.8064
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0209
+   },
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.0012
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0453",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 21,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9911
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.7922
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0003
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0454",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0456",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0470",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 28,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9905
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0008
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0473",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0474",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0484",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0485",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0486",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 45,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.898
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0494",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 35,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9988
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0007
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0497",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 68,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.8283
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0498",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 51,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.988
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0005
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0504",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 28,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.99
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.2227
+   },
+   {
+    "signal": "bin_full_events",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0506",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0511",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0515",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 58,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.7463
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.2141
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0099
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0518",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 66,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.9573
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.1845
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0014
+   }
+  ],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0519",
+  "predicted_mode": "firmware_regression",
+  "alert_day": 49,
+  "top_signals": [
+   {
+    "signal": "firmware_version",
+    "prob_drop": 0.937
+   },
+   {
+    "signal": "reboot_errors",
+    "prob_drop": 0.7117
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0022
+   }
+  ],
+  "injected_mode_ground_truth": "firmware_regression"
+ },
+ {
+  "device_id": "SV-0523",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 51,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.7854
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0006
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0001
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0527",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0538",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 37,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.3538
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0145
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0015
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0542",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0543",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0545",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0547",
+  "predicted_mode": "clogged_filter",
+  "alert_day": 71,
+  "top_signals": [
+   {
+    "signal": "airflow",
+    "prob_drop": 0.5016
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0187
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0025
+   }
+  ],
+  "injected_mode_ground_truth": "clogged_filter"
+ },
+ {
+  "device_id": "SV-0549",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0550",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0562",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0564",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0568",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0573",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0575",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 32,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9739
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0003
+   },
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.0002
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0583",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 36,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.939
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ },
+ {
+  "device_id": "SV-0585",
+  "predicted_mode": "healthy",
+  "alert_day": null,
+  "top_signals": [],
+  "injected_mode_ground_truth": "healthy"
+ },
+ {
+  "device_id": "SV-0594",
+  "predicted_mode": "brush_hair_wrap",
+  "alert_day": 56,
+  "top_signals": [
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.5077
+   },
+   {
+    "signal": "other_errors",
+    "prob_drop": 0.0019
+   },
+   {
+    "signal": "suction_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "brush_hair_wrap"
+ },
+ {
+  "device_id": "SV-0595",
+  "predicted_mode": "wheel_wear",
+  "alert_day": 41,
+  "top_signals": [
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.9092
+   },
+   {
+    "signal": "airflow",
+    "prob_drop": 0.0
+   },
+   {
+    "signal": "brush_motor_current",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "wheel_wear"
+ },
+ {
+  "device_id": "SV-0598",
+  "predicted_mode": "battery_degradation",
+  "alert_day": 50,
+  "top_signals": [
+   {
+    "signal": "battery_resistance",
+    "prob_drop": 0.9969
+   },
+   {
+    "signal": "battery_capacity",
+    "prob_drop": 0.0001
+   },
+   {
+    "signal": "wheel_motor_currents",
+    "prob_drop": 0.0
+   }
+  ],
+  "injected_mode_ground_truth": "battery_degradation"
+ }
+]
